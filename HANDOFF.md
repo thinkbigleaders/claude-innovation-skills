@@ -81,6 +81,17 @@ Building a comprehensive suite of Claude Code skills based on systematic innovat
 
 **Time investment:** 60-90 minutes for complete orchestrated session, 8-12 minutes per individual technique
 
+**⚠️ Important Update - Closed World Methodology Correction:**
+After Phase 3 completion, a critical issue was identified in the Closed World component mapping. The original examples incorrectly treated Internal/External as "physical parts vs environment." The correct distinction is:
+- **Internal** = What you OWN, CONTROL, and can MODIFY without permission (people, processes, technology, content, operations)
+- **External** = What you INTERACT with but DON'T CONTROL (users, environment, devices, ecosystem, regulations, competitors)
+
+This correction is fundamental because:
+- Internal components are innovation **LEVERS** (what you can change via SCAMPER)
+- External components are **CONSTRAINTS and OPPORTUNITIES** (what you work with)
+
+**Status:** closed-world-guide.md corrected with comprehensive examples (Amazon Prime Video, Dental Clinic). Example-outputs.md being updated. SCAMPER examples will be reviewed for alignment.
+
 ---
 
 ## Roadmap: Remaining Skills (3/6)
@@ -399,10 +410,14 @@ innovation-skills/
    - ✅ Orchestrator skill (ideation-scamper)
    - ✅ 7 SCAMPER individual skills
    - ✅ Comprehensive examples across all 4 case studies
-3. **Build idea-evaluation** (Phase 4) - NEXT
-4. **Continue through Phases 5-6**
-5. **Polish and integrate** across all skills
-6. **Create master orchestrator** (optional) that guides through entire journey
+3. 🔧 **Fix Closed World methodology** (Critical correction)
+   - ✅ Fixed closed-world-guide.md with correct Internal vs External understanding
+   - 🔄 Updating example-outputs.md with corrected Closed World maps (in progress)
+   - ⏳ Update SCAMPER examples to align with corrected Closed World
+4. **Build idea-evaluation** (Phase 4) - NEXT after Closed World fixes
+5. **Continue through Phases 5-6**
+6. **Polish and integrate** across all skills
+7. **Create master orchestrator** (optional) that guides through entire journey
 
 ---
 
@@ -503,8 +518,9 @@ innovation-skills/
 5. 4 diverse examples: FairCredit (Nigeria), AsyncFlow (SE Asia), SolarSeva (India), Unbroken (Sweden)
 6. Global diversity requirement throughout
 7. Repository: https://github.com/amirelion/innovation-skills.git
-8. Next: Build idea-evaluation skill
-9. Progress: 53% complete (21/39 hours), 18 hours remaining
+8. **CRITICAL FIX**: Closed World methodology corrected - Internal = what you control (people, processes, tech, operations) vs External = what you interact with (users, environment, ecosystem, regulations)
+9. Next: Complete Closed World example fixes, then build idea-evaluation skill
+10. Progress: 53% complete (21/39 hours), 18 hours remaining
 
 **What can be dropped:**
 - Detailed file contents (all in git)
