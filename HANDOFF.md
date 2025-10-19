@@ -8,9 +8,9 @@ Building a comprehensive suite of Claude Code skills based on systematic innovat
 
 ---
 
-## Current Status: Phase 1-3 Complete ✅
+## Current Status: Phase 1-5 Complete ✅
 
-### Completed Skills (3/6 core phases + 7 SCAMPER tools = 10 total skills)
+### Completed Skills (5/6 core phases + 7 SCAMPER tools = 12 total skills)
 
 #### 1. **customer-discovery**
 **Purpose:** Deep customer understanding before defining solutions
@@ -98,74 +98,78 @@ This correction is fundamental because:
 
 ---
 
-## Roadmap: Remaining Skills (3/6)
-
----
-
-### Phase 4: **idea-evaluation** (Next Priority)
+#### 4. **idea-evaluation** ✅
 **Purpose:** Rate and select ideas based on multiple criteria
 
-**Planned Structure:**
-- Multi-criteria evaluation framework
-- Criteria categories:
-  - Customer value (impact on JTBD, pain relief, gain creation)
-  - Feasibility (technical, operational, resource availability)
-  - Viability (business model, pricing, economics)
-  - Desirability (emotional appeal, brand fit)
-  - Strategic fit (competitive advantage, vision alignment)
-- Scoring approach: 1-5 scale per criterion
-- Weighted scoring (user defines weights based on priorities)
-- Output: Ranked list with top 3-5 ideas for deeper validation
-
 **Key Features:**
-- Customizable criteria based on context
-- Both quantitative (scores) and qualitative (reasoning) evaluation
-- Comparison matrix showing trade-offs
-- Filter options (minimum thresholds, must-haves)
+- ✅ **Multi-criteria evaluation framework** with 5 dimensions:
+  - Customer Value (Impact on JTBD) - pain relief, gain creation, job performance
+  - Feasibility (Can we build it?) - technical, operational, resources, dependencies
+  - Viability (Business sense?) - revenue potential, cost structure, pricing, unit economics
+  - Desirability (Do customers want it?) - emotional resonance, brand fit, differentiation, shareability
+  - Strategic Fit (Advances vision?) - competitive advantage, vision alignment, learning value, platform potential
+- ✅ **1-5 scoring scale** with detailed rubrics for each sub-criterion
+- ✅ **7 weighting strategies** for different contexts (balanced, fast follower, moonshot, PMF search, resource-constrained, B2B, B2C)
+- ✅ **Scoring best practices** - score relatively not absolutely, use evidence, score one dimension at a time
+- ✅ **Portfolio balance** - quick wins vs moonshots, different SCAMPER types, core vs ecosystem
+- ✅ **Decision framework** - validation threshold (3.0+), implementation threshold (3.5+), platform bet (4.0+)
 
-**Estimated Effort:** 3-4 hours
+**Files Created:**
+- ✅ SKILL.md (~4,500 words) - Complete evaluation framework with workflow and examples
+- ✅ assets/evaluation-template.md - Ready-to-use scoring template
+- ✅ references/evaluation-framework.md (~7,000 words) - Deep dive on framework mechanics, weighting, adapting
+- ✅ references/example-outputs.md - Complete evaluations for all 4 case studies:
+  - FairCredit: Full evaluation of 20 ideas with detailed top 5 analysis
+  - AsyncFlow, SolarSeva, Unbroken: Abbreviated evaluations
 
-**Examples:**
-- Evaluate 20-30 ideas generated from FairCredit SCAMPER exercise
-- Show how different weighting changes ranking
+**Output:** Ranked list of ideas with scores, top 3-5 selected for validation with clear rationales and validation focus questions
+
+**Time investment:** 30-60 minutes for evaluating 15-25 ideas
 
 ---
 
-### Phase 5: **critical-validation**
-**Purpose:** Deep-dive validation of top ideas using Six Thinking Hats sequence
-
-**Planned Structure:**
-- **Six Hats Framework:**
-  1. **White Hat** - Facts, data, information (what do we know/need to know?)
-  2. **Red Hat** - Emotions, intuition, gut feelings (how do we feel?)
-  3. **Yellow Hat** - Benefits, optimism, value (what's good about this?)
-  4. **Black Hat** - Risks, problems, caution (what could go wrong?)
-  5. **Green Hat** - Creativity, alternatives, possibilities (how can we improve?)
-  6. **Blue Hat** - Process, meta-thinking, decisions (what's the conclusion?)
-
-- **Recommended sequence for deep validation:**
-  1. Red Hat - Initial gut check (proceed if positive energy)
-  2. White Hat - Gather facts and fill knowledge gaps
-  3. Yellow Hat - Map all benefits and optimistic scenarios
-  4. Black Hat - Identify all risks, problems, reasons it might fail
-  5. Green Hat - Creative solutions to Black Hat problems
-  6. Blue Hat - Synthesize and decide (go/no-go/iterate)
-  7. Red Hat - Final emotional check after analysis
+#### 5. **critical-validation** ✅
+**Purpose:** Deep-dive validation of top ideas using Six Thinking Hats parallel thinking methodology
 
 **Key Features:**
-- Can use all 6 hats or just a subset
-- Guided prompts for each hat perspective
-- Output template capturing insights from each hat
-- Decision framework at end (Blue Hat)
+- ✅ **Six Thinking Hats framework** (Edward de Bono):
+  - 🤍 White Hat - Facts, data, information (what do we know/need to know?)
+  - ❤️ Red Hat - Emotions, intuition, gut feelings (how do we feel?)
+  - 💛 Yellow Hat - Benefits, optimism, value (what's good about this?)
+  - 🖤 Black Hat - Risks, problems, caution (what could go wrong?)
+  - 💚 Green Hat - Creativity, alternatives, possibilities (how can we improve?)
+  - 🔵 Blue Hat - Process, meta-thinking, decisions (what's the conclusion?)
 
-**Estimated Effort:** 4-6 hours
-- Framework and orchestration: 2 hours
-- Individual hat guidance: 30-45 min × 6 = 3-4 hours
+- ✅ **Recommended sequence** for deep validation (90-120 min):
+  Red → White → Yellow → Black → Green → Blue → Red
+  - Initial gut check → Facts → Benefits → Risks → Solutions → Decision → Final gut check
 
-**Examples:**
-- Deep-dive on top 3 FairCredit ideas
-- Show how Black Hat surfaces risks Yellow Hat missed
-- Demonstrate Green Hat solving Black Hat problems
+- ✅ **Quick validation** format (30-45 min):
+  Red → Yellow → Black → Blue (for faster decisions)
+
+- ✅ **Decision framework**: GO / NO-GO / ITERATE with clear next steps for each outcome
+
+**Files Created:**
+- ✅ SKILL.md (~6,500 words) - Complete guide to Six Thinking Hats methodology
+- ✅ assets/validation-template.md - Ready-to-use session template with all hat sections
+- ✅ references/example-outputs.md (~16,000 words) - Full team dialogue simulations:
+  - **FairCredit (Nigeria)**: ITERATE decision - USSD for feature phones (full 105-min session)
+  - **AsyncFlow (SE Asia)**: ITERATE decision - Async-first templates (full 95-min session)
+  - **SolarSeva (India)**: NO-GO decision - Blockchain energy credits (full 85-min session)
+  - **Unbroken (Sweden)**: GO decision - AI route optimization (quick 32-min format)
+  - Shows realistic team discussions with diverse perspectives (facilitator, champion, team, SMEs)
+  - Demonstrates how each hat surfaces different insights
+  - Includes patterns analysis and lessons learned across all 4 validations
+
+**Output:** GO/NO-GO/ITERATE decision with clear rationale, critical assumptions identified, concrete next steps (pilot plans, test designs, action items)
+
+**Time investment:** 90-120 minutes for full validation, 30-45 minutes for quick validation
+
+---
+
+## Roadmap: Remaining Skills (1/6)
+
+---
 
 ---
 
@@ -378,9 +382,21 @@ innovation-skills/
 │   ├── assets/
 │   └── references/
 
+├── idea-evaluation/                   (✅ Phase 4 complete)
+│   ├── SKILL.md
+│   ├── assets/
+│   │   └── evaluation-template.md
+│   └── references/
+│       ├── evaluation-framework.md
+│       └── example-outputs.md
+├── critical-validation/               (✅ Phase 5 complete)
+│   ├── SKILL.md
+│   ├── assets/
+│   │   └── validation-template.md
+│   └── references/
+│       └── example-outputs.md
+
 [Future structure:]
-├── idea-evaluation/
-├── critical-validation/
 └── technical-breakthrough/
 ```
 
@@ -388,22 +404,22 @@ innovation-skills/
 
 ## Time Estimates
 
-**Completed:** ~21 hours
+**Completed:** ~34 hours
 - customer-discovery: ~4 hours
 - solution-definition: ~3 hours (initial) + ~2 hours (enhancements) = ~5 hours
 - ideation-powerhouse: ~12 hours (orchestrator + 7 SCAMPER skills)
-- **Total actual: ~21 hours**
+- idea-evaluation: ~4 hours
+- critical-validation: ~9 hours (SKILL.md + template + comprehensive team dialogue examples)
+- **Total actual: ~34 hours**
 
 **Remaining:**
-- idea-evaluation: ~4 hours
-- critical-validation: ~5 hours
 - technical-breakthrough: ~7 hours
 - Documentation & polish: ~2 hours
-- **Total remaining: ~18 hours**
+- **Total remaining: ~9 hours**
 
-**Grand total: ~35-40 hours for complete suite**
+**Grand total: ~43 hours for complete suite**
 
-**Progress: 53% complete (21/39 hours)**
+**Progress: 79% complete (34/43 hours)**
 
 ---
 
@@ -419,10 +435,17 @@ innovation-skills/
    - ✅ Corrected all 4 Closed World maps in solution-definition/references/example-outputs.md
    - ✅ Updated SolarSeva map to properly categorize local technician network as Internal
    - ✅ Aligned all SCAMPER Closed World references in ideation-scamper/references/example-outputs.md
-4. **Build idea-evaluation** (Phase 4) - NEXT
-5. **Continue through Phases 5-6**
-6. **Polish and integrate** across all skills
-7. **Create master orchestrator** (optional) that guides through entire journey
+4. ✅ **Build idea-evaluation** (Phase 4 - COMPLETE)
+   - ✅ Multi-criteria evaluation framework with 5 dimensions
+   - ✅ 7 weighting strategies for different contexts
+   - ✅ Complete examples for all 4 case studies
+5. ✅ **Build critical-validation** (Phase 5 - COMPLETE)
+   - ✅ Six Thinking Hats methodology (Edward de Bono)
+   - ✅ Full and quick validation formats
+   - ✅ Realistic team dialogue simulations showing GO/NO-GO/ITERATE decisions
+6. **Build technical-breakthrough** (Phase 6) - NEXT
+7. **Polish and integrate** across all skills
+8. **Create master orchestrator** (optional) that guides through entire journey
 
 ---
 
@@ -507,25 +530,27 @@ innovation-skills/
 ## Contact & Collaboration
 
 **Repository:** https://github.com/amirelion/innovation-skills.git
-**Current Status:** Phase 1-3 complete (10 total skills: 3 core + 7 SCAMPER tools)
+**Current Status:** Phase 1-5 complete (12 total skills: 5 core + 7 SCAMPER tools)
 **Last Updated:** October 2025
-**Next Milestone:** Phase 4 - idea-evaluation
+**Next Milestone:** Phase 6 - technical-breakthrough (TRIZ)
 
 ---
 
 ## Notes for Context Compaction
 
 **Key points to retain:**
-1. 10 skills complete: customer-discovery, solution-definition, ideation-scamper + 7 SCAMPER tools
-2. 3 skills remaining: idea-evaluation (next), critical-validation, technical-breakthrough
+1. 12 skills complete: customer-discovery, solution-definition, ideation-scamper + 7 SCAMPER tools, idea-evaluation, critical-validation
+2. 1 skill remaining: technical-breakthrough
 3. Enhanced Working Backwards with 7-paragraph structure and testimonial anatomy
 4. SCAMPER suite with modular design (orchestrator + 7 standalone techniques)
-5. 4 diverse examples: FairCredit (Nigeria), AsyncFlow (SE Asia), SolarSeva (India), Unbroken (Sweden)
-6. Global diversity requirement throughout
-7. Repository: https://github.com/amirelion/innovation-skills.git
-8. ✅ **Closed World methodology corrected** - Internal = what you control (people, processes, tech, operations) vs External = what you interact with (users, environment, ecosystem, regulations). All examples updated and aligned.
-9. Next: Build idea-evaluation skill (Phase 4)
-10. Progress: 53% complete (21/39 hours), 18 hours remaining
+5. Multi-criteria evaluation framework with 5 dimensions and 7 weighting strategies
+6. Six Thinking Hats validation with realistic team dialogue simulations (GO/NO-GO/ITERATE outcomes)
+7. 4 diverse examples threaded throughout: FairCredit (Nigeria), AsyncFlow (SE Asia), SolarSeva (India), Unbroken (Sweden)
+8. Global diversity requirement throughout
+9. Repository: https://github.com/amirelion/innovation-skills.git
+10. ✅ **Closed World methodology corrected** - Internal = what you control (people, processes, tech, operations) vs External = what you interact with (users, environment, ecosystem, regulations). All examples updated and aligned.
+11. Next: Build technical-breakthrough skill (Phase 6 - TRIZ)
+12. Progress: 79% complete (34/43 hours), 9 hours remaining
 
 **What can be dropped:**
 - Detailed file contents (all in git)
