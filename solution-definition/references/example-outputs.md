@@ -80,49 +80,110 @@ A: **Transparency** (no hidden fees—customers understand total cost upfront), 
 **System Definition:**
 Mobile-first lending platform for Nigerian informal sector using alternative credit data (mobile money transaction history) to provide transparent, fast micro-loans with flexible repayment.
 
-**Internal Components:**
-1. **Mobile interface** - USSD menu system, WhatsApp bot, Android app (optional)
-2. **User authentication** - Phone number verification, BVN integration
-3. **Credit assessment engine** - ML models analyzing mobile money patterns
-4. **Decision API** - Real-time loan approval workflow
-5. **Loan management system** - Disburse, track repayments, schedule
-6. **Mobile money integration** - APIs to Paga, OPay, others for transaction data
-7. **Payment processing** - Automated deductions, manual payments
-8. **Credit bureau integration** - Report to/query CBN credit bureau
-9. **Customer database** - Loan history, credit scores, behavior patterns
-10. **Notification system** - SMS reminders, payment confirmations
-11. **Collections workflow** - Graduated approach from gentle reminders to escalation
-12. **Fraud detection system** - Pattern recognition for suspicious activity
-13. **Customer support** - WhatsApp-based support chat
-14. **Admin dashboard** - Operations team monitoring and intervention tools
-15. **Reporting/analytics** - Portfolio performance, risk metrics
+**Internal Components (What FairCredit Controls):**
 
-**External Components:**
-1. **Customer's mobile phone** - Basic phone or smartphone
-2. **Customer's mobile money account** - Paga, OPay, MTN MoMo, etc.
-3. **Transaction history** - 3-6 months of mobile money activity
-4. **Nigerian telecom network** - MTN, Airtel, Glo, 9mobile for USSD/SMS
-5. **Customer's business** - Source of repayment income
-6. **Business cash flow cycles** - Daily, weekly, or bi-weekly patterns
-7. **Bank accounts (optional)** - Some customers may have basic accounts
-8. **Customer's social network** - Word-of-mouth referrals, trust signals
-9. **Mobile money agents** - Cash in/out network for customers
-10. **CBN credit bureau** - Central Bank of Nigeria credit reporting system
-11. **Internet connectivity** - 2G/3G/4G for data transmission
-12. **Power infrastructure** - Phone charging, network uptime
-13. **Regulatory environment** - CBN lending regulations, data privacy laws
+**People & Organization:**
+- Engineering team (backend, mobile, ML engineers)
+- Product and design team
+- Operations team (customer support, collections, fraud monitoring)
+- Credit risk analysts
+- Business development and partnerships team
+- Management and executives
+
+**Technology & Software:**
+- USSD menu system, WhatsApp bot, Android app (optional)
+- Credit assessment ML models and algorithms
+- Loan approval decision engine and workflow
+- Loan management system (disbursement, tracking, scheduling)
+- Payment processing system (automated deductions, manual payments)
+- Customer database and data warehouse
+- SMS notification system
+- Collections workflow and automation
+- Fraud detection algorithms and rules
+- Admin dashboard and monitoring tools
+- Analytics and reporting systems
+
+**Processes:**
+- Customer onboarding and KYC process
+- Credit underwriting methodology
+- Loan approval criteria and thresholds
+- Collections escalation procedures
+- Customer support protocols
+- Fraud investigation workflow
+- Risk management practices
+
+**Content & IP:**
+- Proprietary credit scoring models
+- Brand name, messaging, positioning
+- Customer education content
+- Terms and conditions, loan agreements
+- FAQ content, help documentation
+
+**Business Operations:**
+- Pricing structure (interest rates, fee schedule)
+- Loan products and features (amounts, terms, repayment frequencies)
+- Marketing campaigns and channels
+- Partnership agreements (mobile money providers)
+- Customer acquisition strategy
+- Customer support channels and hours
+
+**Physical/Financial Assets:**
+- Office space and equipment
+- Loan capital and funding sources
+- Bank accounts and financial reserves
+
+**External Components (What FairCredit Interacts With):**
+
+**Users/Customers:**
+- Informal sector entrepreneurs (demographics, behaviors, needs)
+- Transaction history and financial patterns
+- Business types (market traders, small shops, artisans)
+- Income variability and cash flow cycles
+- Financial literacy levels
+- Trust and skepticism (burned by predatory lenders)
+- Social networks and word-of-mouth patterns
+- Phone ownership and technical proficiency
+
+**Physical/Economic Environment:**
+- Nigerian informal economy structure
+- Lagos and other major market locations
+- Daily cash-based business operations
+- Competition from loan officers and other lenders
+- Local market conditions and business cycles
+- Economic trends (inflation, currency fluctuation)
+
+**Technology Ecosystem:**
+- Customer mobile phones (basic phones, smartphones, models)
+- Mobile money services (Paga, OPay, MTN MoMo - independent platforms)
+- Nigerian telecom networks (MTN, Airtel, Glo, 9mobile)
+- Network quality and coverage
+- Internet connectivity (2G/3G/4G availability)
+- Power infrastructure (phone charging, network uptime)
+- Mobile money agent networks (cash in/out)
+
+**Regulatory & External Systems:**
+- CBN (Central Bank of Nigeria) lending regulations
+- Data privacy laws and requirements
+- CBN credit bureau system (CRC)
+- BVN (Bank Verification Number) system
+- KYC and AML compliance requirements
+
+**Partners & Competitors:**
+- Mobile money providers (API partnerships but not controlled)
+- Banks and traditional lenders
+- Other fintech lenders
+- Loan officers and informal moneylenders
+- Mobile network operators
 
 **Key Relationships:**
-- **Mobile money transaction history** is the core alternative credit signal
-- **USSD accessibility** enables feature phone users (no smartphone barrier)
-- **WhatsApp familiarity** reduces friction (already used for business)
-- **Loan size and repayment** flex with business income patterns
-- **Credit score improvement** incentivizes good behavior, creates loyalty
-- **Phone number** is primary identity (stable across providers)
-- **Network quality** affects reliability of USSD/notifications
-- **Mobile money agent network** enables cash transactions if needed
-- **Word-of-mouth** is primary growth channel (trust-driven market)
-- **Regulatory compliance** determines what's possible/required
+- **Internal credit models** analyze **external customer transaction history** to assess risk
+- **Internal USSD/WhatsApp interfaces** work through **external telecom networks**
+- **Internal loan pricing** must compete with **external alternatives** (loan officers, other fintechs)
+- **Internal collections process** respects **external customer dignity and social dynamics**
+- **Internal fraud detection** monitors **external customer behavior patterns**
+- **Internal support team** responds to **external customer questions and issues**
+- **Internal growth** depends on **external word-of-mouth** in trust-based markets
+- **Internal compliance** meets **external regulatory requirements**
 
 ---
 
@@ -325,6 +386,8 @@ A: **Affordability** (monthly payment model vs. upfront), **local trust** (techn
 Grid-tied solar power system (500-1000W) with installation, financing, and local service support, designed to replace diesel generators in rural/semi-rural Indian households and small businesses.
 
 **Internal Components:**
+
+**Physical System:**
 1. **Solar panels** - 2-4 panels (250W each), 20-year lifespan
 2. **Inverter** - Converts DC to AC, grid synchronization
 3. **Mounting structure** - Roof mounting frame, weather-resistant
@@ -334,9 +397,23 @@ Grid-tied solar power system (500-1000W) with installation, financing, and local
 7. **Monitoring system** - Basic performance tracking
 8. **Circuit breaker** - Safety disconnect
 9. **Installation kit** - Bolts, sealants, protective gear
+
+**Documentation & Support:**
 10. **Warranty documentation** - 5-year system, 20-year panels
 11. **User manual** - Hindi/regional language guide
 12. **Technician contact card** - Local support phone number
+
+**People & Operations:**
+13. **Local technician network** - SolarSeva-trained technicians in each taluka for installation, maintenance, troubleshooting
+14. **Sales representatives** - Assess customer needs, recommend systems
+15. **Installation teams** - Deploy systems in one day
+16. **Customer support** - Handle issues and service requests
+
+**Business Operations:**
+17. **Financing model** - Monthly payment structure, UPI collection system
+18. **Pricing and payment plans** - ₹2,800-4,200/month tiers
+19. **Subsidy processing** - Managing MNRE subsidy application and pass-through
+20. **Warranty and service commitments** - 3-month money-back guarantee, quarterly check-ups
 
 **External Components:**
 1. **Customer's roof** - Space and structural capacity for panels
@@ -346,26 +423,25 @@ Grid-tied solar power system (500-1000W) with installation, financing, and local
 5. **Household/shop** - Building structure, usage patterns
 6. **Sunlight** - 5-7 hours productive sun daily in Rajasthan
 7. **Weather conditions** - Monsoon, dust storms, seasonal variation
-8. **Local technician** - Installation, maintenance, troubleshooting
-9. **Customer payment system** - UPI, bank account for monthly collection
-10. **Diesel generator (being replaced)** - Current backup power solution
-11. **Monthly income** - Business revenue or household earnings for payments
-12. **Local electricity distribution company** - For net metering, grid connection
-13. **Customer's neighbors** - Word-of-mouth, social proof
-14. **Government subsidy program** - MNRE 40% subsidy
+8. **Customer payment system** - UPI accounts, bank accounts for monthly collection
+9. **Diesel generator (being replaced)** - Current backup power solution
+10. **Customer's monthly income** - Business revenue or household earnings for payments
+11. **Local electricity distribution company** - For net metering, grid connection
+12. **Customer's neighbors** - Word-of-mouth, social proof
+13. **Government subsidy program** - MNRE 40% subsidy (external program SolarSeva leverages)
 
 **Key Relationships:**
-- **Panel output** must match actual load (lights, fans, fridge)—right-sizing critical
-- **Grid connection** enables hybrid operation (solar + grid when needed)
-- **Monthly payment** comparable to generator fuel cost enables affordability
-- **Local technician** proximity enables fast service response
-- **Roof space and orientation** determines installation feasibility and output
-- **Monsoon/dust** requires periodic cleaning and maintenance
-- **UPI payments** enable automated collection even in rural areas
-- **Subsidy program** reduces system cost, passed to customer
-- **Reference customers** in nearby villages drive adoption through trust
-- **Generator replacement** means system must handle shop/household essential loads
-- **Customer income cycle** (daily/weekly) must align with monthly payment collection
+- **Internal panel sizing** must match **external actual load** (lights, fans, fridge)—right-sizing critical
+- **Internal system** works with **external grid connection** to enable hybrid operation (solar + grid when needed)
+- **Internal monthly payment structure** must be comparable to **external generator fuel cost** to enable affordability
+- **Internal technician network** proximity enables fast response to **external customer issues**
+- **External roof space and orientation** determines **internal installation** feasibility and output
+- **External monsoon/dust** requires **internal maintenance protocols** (periodic cleaning)
+- **Internal UPI collection system** leverages **external UPI infrastructure** for automated collection even in rural areas
+- **External government subsidy program** reduces **internal system cost**, passed to customer
+- **External reference customers** in nearby villages drive adoption through **external word-of-mouth** trust
+- **Internal system capacity** must handle **external shop/household essential loads** for generator replacement
+- **External customer income cycle** (daily/weekly) must align with **internal monthly payment collection** timing
 
 ---
 

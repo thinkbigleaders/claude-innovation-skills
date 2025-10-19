@@ -373,9 +373,9 @@ This document shows complete SCAMPER sessions applied to our four case studies. 
 
 ### Closed World Reference (Brief)
 
-**Internal:** Solar panels, battery bank, inverter, charge controller, LED lights, mobile payment integration, installation hardware, monitoring sensors, warranty terms, local technician network
+**Internal:** Solar panels, battery bank, inverter, charge controller, installation hardware, monitoring sensors, warranty terms, local technician network (SolarSeva-trained), sales reps, installation teams, customer support, financing model, pricing plans, subsidy processing
 
-**External:** Sunlight, roof space, household electricity needs, power grid (unreliable), user's income patterns, local technician (Prakash-ji), monsoon weather, family members, diesel generator
+**External:** Sunlight, roof space, household electricity needs, power grid (unreliable), customer's income patterns, monsoon weather, family members, diesel generator (being replaced), customer's UPI accounts, government subsidy program
 
 ### Selected SCAMPER Ideas (10 examples across techniques)
 
