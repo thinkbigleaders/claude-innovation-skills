@@ -18,6 +18,43 @@ Use this skill when:
 - You need to align team and stakeholders on solution direction
 - You're ready to identify the specific system you'll innovate within
 
+## Execution Modes
+
+Choose your preferred working mode:
+
+### Interactive Mode (Recommended)
+
+Claude will guide you through PRFAQ creation iteratively, then pause for approval before moving to Closed World mapping.
+
+**Checkpoints:**
+1. After PRFAQ draft → Review, iterate 3-5 times until solid
+2. After PRFAQ approval → Proceed to Closed World mapping
+3. After Closed World → Review final solution definition
+
+**Use when:**
+- First time using Working Backwards framework
+- Want to iterate on PRFAQ quality
+- Need to refine vision before mapping resources
+- Prefer step-by-step guidance
+
+### Autonomous Mode
+
+Claude will generate complete PRFAQ + Closed World in one pass, then present for your review.
+
+**Use when:**
+- Familiar with PRFAQ and Closed World frameworks
+- Want fast first draft to iterate on
+- Clear vision of solution already
+- Prefer batch review
+
+**To activate:**
+```
+Use solution-definition skill in interactive mode.
+[Paste customer-discovery outputs]
+```
+
+---
+
 ## Two-Step Process
 
 ### Step 1: Working Backwards (Define Solution Vision)

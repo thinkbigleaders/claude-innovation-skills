@@ -18,6 +18,46 @@ Use this skill when:
 - Want to avoid building solutions based on assumptions
 - Preparing for solution definition and ideation
 
+## Execution Modes
+
+Before starting customer discovery, choose your preferred working mode:
+
+### Interactive Mode (Recommended for First-Timers)
+
+Claude will guide you step-by-step through each phase, asking for your input and approval before proceeding.
+
+**Checkpoints:**
+1. After JTBD analysis → Review and approve before creating persona
+2. After persona creation → Review and approve before evidence gathering
+3. After evidence gathering → Review final synthesis
+
+**Use when:**
+- First time using this skill
+- Want hands-on involvement in each step
+- Need to customize outputs based on emerging insights
+- Prefer iterative refinement
+
+### Autonomous Mode (For Experienced Users)
+
+Claude will generate all three outputs (JTBD, persona, evidence) based on your initial prompt, then present complete customer discovery for your review.
+
+**Use when:**
+- Familiar with JTBD, personas, and evidence gathering
+- Want fast first draft to iterate on
+- Trust the framework to guide outputs
+- Prefer batch review over step-by-step
+
+**To activate a mode, simply state it in your prompt:**
+```
+Use customer-discovery skill in interactive mode for [problem space].
+```
+or
+```
+Use customer-discovery skill in autonomous mode for [problem space].
+```
+
+---
+
 ## Three-Step Process
 
 ### Step 1: Jobs-to-be-Done Analysis
@@ -59,8 +99,13 @@ Bring the JTBD to life with a specific, realistic persona that represents the ta
 
 Validate assumptions and gather real-world intelligence before defining solutions.
 
+**Choose depth level:**
+- **Quick (1 hour):** 1-2 sources, high-level patterns, 3-5 findings
+- **Standard (3-5 hours):** 3-4 sources, pattern identification, 8-12 findings **[Recommended]**
+- **Deep (8+ hours):** All 5 sources, comprehensive analysis, 15-20+ findings
+
 **Five evidence sources:**
-1. **Social media listening:** Customer complaints, workarounds, discussions
+1. **Social media listening:** Customer complaints, workarounds, discussions (enhanced with search templates)
 2. **Market & competitor analysis:** What exists, gaps, pricing signals
 3. **Customer feedback & support data:** Patterns in problems and requests
 4. **Technology & trend scanning:** What's newly possible, "why now"
@@ -68,7 +113,7 @@ Validate assumptions and gather real-world intelligence before defining solution
 
 **Output:** Synthesized findings that validate or challenge your JTBD/persona, reveal landscape, capture customer voice, and identify opportunities.
 
-**For detailed methodology:** Read `references/evidence-gathering.md` for source selection, research questions, and synthesis templates.
+**For detailed methodology:** Read `references/evidence-gathering.md` for source selection, research questions, depth levels, social media search templates, and synthesis guides.
 
 ## Workflow
 

@@ -21,11 +21,24 @@
 
 **Prompt:** "How do you feel about this idea right now? What's your gut reaction?"
 
+**🚨 RED HAT RULE: NO JUSTIFICATION - Pure emotions only. No "because", no explanations.**
+
+**✅ CORRECT Format:**
+- "I'm excited"
+- "I'm worried"
+- "Something feels off"
+- "I'm conflicted"
+
+**❌ WRONG Format (do NOT include explanations):**
+- "I'm excited because..." ← NO!
+- "I'm worried about the technical complexity" ← NO!
+- "Something feels off about pricing" ← NO!
+
 **Participant responses:**
-- **[Name]:** ___________________________________________
-- **[Name]:** ___________________________________________
-- **[Name]:** ___________________________________________
-- **[Name]:** ___________________________________________
+- **[Name]:** ___________________ (emotion only)
+- **[Name]:** ___________________ (emotion only)
+- **[Name]:** ___________________ (emotion only)
+- **[Name]:** ___________________ (emotion only)
 
 **Overall sentiment:** [ Mostly Positive / Mixed / Mostly Negative ]
 
@@ -265,11 +278,13 @@ ___________________________________________
 
 **Prompt:** "After all this analysis, how do you feel now? Has your gut changed?"
 
+**🚨 RED HAT RULE (STILL APPLIES): NO JUSTIFICATION - Pure emotions only.**
+
 **Participant responses:**
-- **[Name]:** ___________________________________________
-- **[Name]:** ___________________________________________
-- **[Name]:** ___________________________________________
-- **[Name]:** ___________________________________________
+- **[Name]:** ___________________ (emotion only - e.g., "More confident", "Still worried", "Excited")
+- **[Name]:** ___________________ (emotion only)
+- **[Name]:** ___________________ (emotion only)
+- **[Name]:** ___________________ (emotion only)
 
 **Overall confidence in decision:** [ High / Medium / Low ]
 

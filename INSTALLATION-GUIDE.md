@@ -1,33 +1,89 @@
 # Installation & Usage Guide
 
-## Two Skills, Two Phases
+## Innovation Skills Suite
 
-You now have two skills that work sequentially:
+You now have 12 skills across 5 phases of systematic innovation:
 
-1. **customer-discovery** - Understand customer needs
-2. **solution-definition** - Define solution vision and resources
+**Phase 1:** customer-discovery
+**Phase 2:** solution-definition
+**Phase 3:** ideation-scamper + 7 SCAMPER technique skills
+**Phase 4:** idea-evaluation
+**Phase 5:** critical-validation
 
 ---
 
 ## Installation
 
-### Step 1: Install customer-discovery
+### For Claude Code (Recommended)
 
-1. Download [customer-discovery.zip](computer:///mnt/user-data/outputs/customer-discovery.zip)
-2. In Claude.ai:
-   - Click profile icon (bottom left)
-   - Select "Settings" → "Skills"
-   - Click "Upload Skill"
-   - Select `customer-discovery.zip`
+Skills are structured as SKILL.md files in directories. To use with Claude Code:
 
-### Step 2: Install solution-definition
+**Option 1: Direct Directory Access**
+- Skills are already in the repository structure
+- Claude Code should be able to access them from: `/Users/amirelion/Documents/Development/innovation-skills/[skill-name]/`
+- Each skill has a SKILL.md file that Claude Code reads
 
-1. Download [solution-definition.zip](computer:///mnt/user-data/outputs/solution-definition.zip)
-2. Same process:
-   - Settings → Skills → Upload Skill
-   - Select `solution-definition.zip`
+**Option 2: Package Skills (If Invocation Not Working)**
 
-Both skills are now ready to use!
+If direct invocation doesn't work, you may need to package skills:
+
+1. Create `.claude/skills/` directory in your project:
+   ```bash
+   mkdir -p .claude/skills
+   ```
+
+2. Copy skill directories to `.claude/skills/`:
+   ```bash
+   cp -r customer-discovery .claude/skills/
+   cp -r solution-definition .claude/skills/
+   cp -r ideation-scamper .claude/skills/
+   # ... repeat for all skills
+   ```
+
+3. Reload Claude Code or restart
+
+**Skill Packaging Script (Create if needed):**
+
+```bash
+#!/bin/bash
+# package-skills.sh - Package innovation skills for Claude Code
+
+SKILLS_DIR=".claude/skills"
+mkdir -p $SKILLS_DIR
+
+# List of skills to package
+SKILLS=(
+  "customer-discovery"
+  "solution-definition"
+  "ideation-scamper"
+  "scamper-substitute"
+  "scamper-combine"
+  "scamper-adapt"
+  "scamper-modify"
+  "scamper-put-to-other-uses"
+  "scamper-eliminate"
+  "scamper-reverse"
+  "idea-evaluation"
+  "critical-validation"
+)
+
+for skill in "${SKILLS[@]}"; do
+  echo "Packaging $skill..."
+  cp -r "$skill" "$SKILLS_DIR/"
+done
+
+echo "All skills packaged to $SKILLS_DIR"
+```
+
+Make executable: `chmod +x package-skills.sh`
+
+### For Claude.ai (Alternative)
+
+If you want to use these skills with Claude.ai web interface:
+
+1. Each skill folder needs to be zipped individually
+2. Upload via Settings → Skills → Upload Skill
+3. Note: Currently skills are designed for Claude Code, so some features may not work in web UI
 
 ---
 

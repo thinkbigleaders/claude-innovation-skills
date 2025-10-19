@@ -33,6 +33,42 @@ Before starting validation, you need:
 4. **PRFAQ** to reference customer value and vision
 5. **Critical assumptions** - what must be true for this to work?
 
+## Execution Modes
+
+Choose your preferred working mode:
+
+### Interactive Mode (Recommended)
+
+Claude will guide you through each hat sequentially, pausing for your review before moving to the next hat.
+
+**Checkpoints:**
+- After each hat → Review findings, add anything missed, approve before next hat
+- Especially useful for Red Hat (capture gut feeling before logic)
+- Final checkpoint before Blue Hat decision
+
+**Use when:**
+- First time using Six Thinking Hats
+- Want to actively participate in each thinking mode
+- Need team collaboration at each step
+- Important decision requiring careful deliberation
+
+### Autonomous Mode
+
+Claude will complete all 6 hats in sequence and present comprehensive validation summary.
+
+**Use when:**
+- Familiar with Six Hats methodology
+- Solo validation (not facilitating team session)
+- Want complete analysis draft to review
+- Time-constrained
+
+**To activate:**
+```
+Use critical-validation skill in interactive mode on [Idea Name].
+```
+
+---
+
 ## The Six Thinking Hats
 
 Each hat represents a distinct thinking mode. By wearing one hat at a time, teams think in parallel rather than arguing from fixed positions.
@@ -49,13 +85,51 @@ Each hat represents a distinct thinking mode. By wearing one hat at a time, team
 ---
 
 ### ❤️ Red Hat - Emotions & Intuition
-**Focus:** Gut feelings, emotions, intuition (no justification needed)
+**Focus:** Gut feelings, emotions, intuition (**NO JUSTIFICATION ALLOWED**)
 - How do I feel about this idea?
 - What's my gut reaction?
 - Do I trust this will work?
 - What emotions does this evoke?
 
 **Output:** Honest emotional landscape, not filtered by logic
+
+---
+
+#### 🚨 Red Hat Enforcement Rules
+
+**CRITICAL:** Red Hat responses must be PURE EMOTION with ZERO JUSTIFICATION.
+
+**❌ WRONG Examples (include "because"/rationale):**
+- "I'm excited because this solves a real customer pain"
+- "I'm worried since we don't have the technical skills"
+- "I feel optimistic - customers will definitely pay for this"
+- "Something feels off about the pricing model"
+- "I'm nervous about the timeline given our team size"
+
+**✅ RIGHT Examples (pure feeling only):**
+- "I'm excited"
+- "I'm worried"
+- "I feel optimistic"
+- "Something feels off"
+- "I'm nervous"
+- "I'm conflicted - both excited and scared"
+- "This feels right"
+- "I don't trust this"
+
+**Facilitator script when someone adds "because":**
+> "Thank you for the feeling. Let's save the 'why' for White Hat or Black Hat. Just the emotion for now - how do you FEEL?"
+
+**Why this matters:**
+- Gut feelings often know things logic hasn't articulated yet
+- Adding "because" turns Red Hat into White/Black Hat
+- Pure emotions reveal team's intuitive assessment
+- Final Red Hat shows if analysis changed gut feeling
+
+**Enforcement checklist:**
+- [ ] No "because" statements
+- [ ] No explanations or reasons
+- [ ] No data or facts
+- [ ] Just emotions: excited, worried, nervous, optimistic, skeptical, confident, uncertain, etc.
 
 ---
 
@@ -165,17 +239,27 @@ Each hat represents a distinct thinking mode. By wearing one hat at a time, team
 **Prompt:** "How do you feel about this idea right now? What's your gut reaction?"
 
 **Guidelines:**
-- No justification needed - just express feelings
-- Valid responses: "I'm excited but nervous" / "Something feels off" / "I love it"
+- **NO JUSTIFICATION ALLOWED** - just express pure feelings
+- **STOP at the emotion** - no "because", no explanations
+- Valid responses: "I'm excited" / "I'm nervous" / "Something feels off" / "I'm conflicted"
+- **INVALID:** Any response with "because", "since", or explanations
 - Capture all reactions without judgment
 - If majority is negative, consider stopping here
 
 **Output:** Honest emotional baseline before analysis
 
-**Example:**
+**✅ CORRECT Example:**
+- Person A: "I'm excited"
+- Person B: "I'm worried"
+- Person C: "I feel optimistic"
+
+**❌ INCORRECT Example (includes justification):**
 - Person A: "I'm excited but worried about technical complexity"
 - Person B: "Gut says this is too risky right now"
 - Person C: "I feel optimistic - customers will love this"
+
+**If someone adds "because" or rationale:**
+Facilitator says: "Thank you for sharing. Let's capture just the feeling for now - excited? worried? Save the 'why' for White Hat or Black Hat."
 
 ---
 
@@ -453,6 +537,11 @@ GREEN HAT MODIFICATIONS:
 
 **Prompt:** "After all this analysis, how do you feel now? Has your gut reaction changed?"
 
+**Guidelines (SAME AS INITIAL RED HAT):**
+- **NO JUSTIFICATION** - pure emotions only
+- Just state feelings: "I feel confident" / "Still nervous" / "More excited now" / "Less certain"
+- **NO "because"** statements
+
 **Compare to initial Red Hat:**
 - Are you more or less confident?
 - Did analysis confirm or contradict intuition?
@@ -464,6 +553,16 @@ GREEN HAT MODIFICATIONS:
 - Trust the analysis or trust the gut?
 
 **Output:** Emotional validation of decision, surface any unease
+
+**✅ CORRECT Final Red Hat:**
+- Person A: "I feel much more confident now"
+- Person B: "Still nervous but less worried"
+- Person C: "I'm excited"
+
+**❌ INCORRECT Final Red Hat (includes justification):**
+- Person A: "I feel more confident because we have mitigation strategies"
+- Person B: "Still nervous about the technical risks"
+- Person C: "I'm excited - this is going to work"
 
 ---
 
