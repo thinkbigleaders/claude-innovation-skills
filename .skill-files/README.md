@@ -12,24 +12,29 @@ This folder contains ready-to-use `.skill` files that you can download and uploa
 2. Click the "Download" button (or right-click and select "Save As...")
 3. Save the file to your computer
 
+## Requirements
+
+**⚠️ Important**: Skills require a paid Claude account (Pro, Max, Team, or Enterprise plan). As of November 2025, skills are not available on the free plan.
+
+Additionally:
+- **Code execution** must be enabled in your account settings
+- **Enterprise/Team users**: Your administrator must enable both "Code execution and file creation" and "Skills" capabilities
+- Each user must upload skills individually (they are private to your account)
+
 ## How to Upload to Claude
 
-### Method 1: Via Claude.ai Web Interface
+### Via Claude.ai (Recommended)
 
-1. Go to [Claude.ai](https://claude.ai)
-2. Start a new conversation or open an existing project
-3. Look for the skill/tool icon in the interface
-4. Click "Upload Skill" or "Add Custom Skill"
-5. Select the `.skill` file you downloaded
-6. The skill is now available! Use it by typing `/` and selecting the skill name
+1. Log in to [Claude.ai](https://claude.ai) with your Pro, Max, Team, or Enterprise account
+2. Go to **Settings** → **Capabilities**
+3. Ensure **"Code execution and file creation"** is toggled ON
+4. Scroll to the **Skills** section
+5. Click **"Upload skill"**
+6. Select the `.skill` file you downloaded (it's a ZIP file)
+7. Toggle the skill ON in your Skills list
+8. The skill is now available! Start a new conversation and type `/` to see your skills
 
-### Method 2: Via Claude Desktop App
-
-1. Open Claude Desktop
-2. Go to Settings → Skills
-3. Click "Add Skill"
-4. Select the `.skill` file you downloaded
-5. The skill is now available in all your conversations
+**For detailed instructions**: [Using Skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
 
 ### Method 3: Manual Installation (Advanced)
 

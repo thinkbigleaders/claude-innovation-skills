@@ -43,6 +43,15 @@ Claude Skills are reusable prompt templates that help Claude assist you with spe
 
 Learn more: [What are Skills? - Claude Help Center](https://support.claude.com/en/articles/12512176-what-are-skills)
 
+## Requirements
+
+**⚠️ Skills require a paid Claude account** (Pro, Max, Team, or Enterprise plan). As of November 2025, skills are not available on the free plan.
+
+Additionally:
+- **Code execution** must be enabled in your account settings
+- **Enterprise/Team users**: Your administrator must enable "Code execution and file creation" and "Skills" in Admin settings
+- Each user must upload skills individually (they are private to your account)
+
 ## Quick Start
 
 ### For Non-Technical Users (Easiest Method)
@@ -53,17 +62,22 @@ Learn more: [What are Skills? - Claude Help Center](https://support.claude.com/e
    - Save it to your computer
 
 2. **Upload to Claude**
-   - Open [Claude.ai](https://claude.ai)
-   - Start a new conversation or use an existing one
-   - Click the skill icon (or use the `/` command)
-   - Select "Upload Skill" or "Add Custom Skill"
-   - Choose the `.skill` file you downloaded
-   - The skill is now available in your Claude interface!
+   - Log in to [Claude.ai](https://claude.ai) with your Pro, Max, Team, or Enterprise account
+   - Go to **Settings** → **Capabilities**
+   - Ensure **"Code execution and file creation"** is toggled ON
+   - Scroll to the **Skills** section
+   - Click **"Upload skill"**
+   - Select the `.skill` file you downloaded (it's a ZIP file)
+   - Your skill will be added to your Skills list!
 
-3. **Use the skill**
+3. **Enable and use the skill**
+   - In Settings → Capabilities → Skills, toggle the skill ON
+   - Start a new conversation or use an existing one
    - Type `/` in the chat to see all available skills
    - Select your uploaded skill from the list
    - Follow the prompts Claude provides
+
+**For detailed instructions**: [Using Skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
 
 ### For Developers (Clone the Repository)
 
