@@ -70,10 +70,9 @@ Additionally:
    - Toggle the skill on or off as needed
 
 3. **Use the skill**
-   - Start a new conversation or use an existing one
-   - Type `/` in the chat to see all available skills
-   - Select your uploaded skill from the list
-   - Follow the prompts Claude provides
+   - Simply describe your task in a conversation with Claude
+   - Claude automatically identifies and loads relevant skills based on your task
+   - Follow the prompts and guidance Claude provides
 
 **For detailed instructions on enabling and using skills**: [How to enable Skills - Claude Help Center](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
 
