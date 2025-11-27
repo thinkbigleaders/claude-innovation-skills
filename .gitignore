@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*.swn
+.sublime-project
+.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Node modules (if any JavaScript tooling is added)
+node_modules/
+npm-debug.log*
+
+# Python (if any Python tooling is added)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.Spotlight-V100
+.Trashes

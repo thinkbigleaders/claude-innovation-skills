@@ -1,351 +1,195 @@
-# Innovation Skills Suite
+# Claude Innovation Skills
 
-A comprehensive suite of Claude Code skills for systematic innovation, taking you from customer discovery through validated innovation using proven methodologies.
+A curated collection of AI-powered skills for systematic innovation, from customer discovery to critical validation. These skills help you build better products by following proven methodologies like Jobs-to-be-Done, Working Backwards (PRFAQ), SCAMPER, and Six Thinking Hats.
 
 ## Overview
 
-These skills guide you through the complete innovation journey based on systematic innovation methodology, combining Jobs-to-be-Done, Amazon Working Backwards, SCAMPER, Six Thinking Hats, and TRIZ.
+This repository contains ready-to-use Claude skills that guide you through the innovation process:
 
-**Repository:** https://github.com/amirelion/innovation-skills.git
+1. **Customer Discovery** - Understand customer needs through JTBD analysis and persona creation
+2. **Solution Definition** - Define solutions using Amazon's Working Backwards (PRFAQ) methodology
+3. **Ideation (SCAMPER)** - Generate creative ideas using the SCAMPER framework
+4. **Idea Evaluation** - Evaluate ideas with multi-criteria scoring
+5. **Critical Validation** - Validate ideas using Six Thinking Hats methodology
 
----
-
-## The Innovation Journey
-
-```
-1. customer-discovery          →  Understand customer needs deeply
-2. solution-definition          →  Define solution vision & map resources
-3. ideation-powerhouse          →  Generate 30-50+ innovative ideas
-4. idea-evaluation              →  Rate and select top ideas (Coming Soon)
-5. critical-validation          →  Deep-dive validation (Coming Soon)
-6. technical-breakthrough       →  Solve hard problems (Coming Soon)
-```
-
----
-
-## Current Skills (Phase 1-3 Complete)
+## Available Skills
 
 ### Phase 1: Customer Discovery
-**Skill:** `customer-discovery`
-
-Deep customer understanding before defining solutions.
-
-**What it does:**
-- Jobs-to-be-Done analysis (functional, emotional, social jobs + pains & gains)
-- Globally diverse persona creation (rotate through Asia-Pacific, Africa, Latin America, Middle East, Europe, North America)
-- Evidence gathering from social media, market research, customer feedback, trends, direct research
-
-**Output:** JTBD + Persona + Evidence → Foundation for solution definition
-
-**Time:** 4-8 hours
-
----
+- **customer-discovery** - Deep customer understanding through Jobs-to-be-Done analysis, globally diverse persona creation, and evidence gathering
 
 ### Phase 2: Solution Definition
-**Skill:** `solution-definition`
+- **solution-definition** - Working Backwards (PRFAQ) methodology with Closed World mapping
+- **prfaq-writer** - Amazon-style Press Release FAQ writer for solution definition
 
-Define clear solution vision and map available resources.
+### Phase 3: Ideation
+- **ideation-scamper** - Complete SCAMPER ideation framework (all 7 techniques)
+- **scamper-substitute** - Generate ideas by substituting components
+- **scamper-combine** - Create innovations by combining elements
+- **scamper-adapt** - Adapt existing solutions to new contexts
+- **scamper-modify** - Modify and magnify existing solutions
+- **scamper-put-to-other-uses** - Find new uses for existing solutions
+- **scamper-eliminate** - Simplify by removing elements
+- **scamper-reverse** - Reverse or rearrange processes
 
-**What it does:**
-1. **Working Backwards** - Amazon PRFAQ methodology
-   - 7-paragraph press release structure
-   - Customer testimonial anatomy (frustration → discovery → benefits → delightful moment → transformation → advocacy)
-   - Customer FAQs + Stakeholder FAQs
-2. **Closed World Mapping** - SIT principle
-   - Internal components (8-15): what IS the product
-   - External components (5-10): what INTERACTS with product
-   - Key relationships and constraints
+### Phase 4: Evaluation
+- **idea-evaluation** - Multi-criteria scoring framework for evaluating ideas
 
-**Output:** Compelling PRFAQ + Complete resource inventory → Foundation for ideation
+### Phase 5: Validation
+- **critical-validation** - Six Thinking Hats methodology for critical thinking and validation
 
-**Time:** 3-6 hours
+## Quick Start
 
----
+### For Non-Technical Users (Easiest Method)
 
-### Phase 3: Ideation Powerhouse (SCAMPER)
-**8 skills for systematic creative ideation**
+1. **Download a skill file**
+   - Go to the [.skill-files](/.skill-files) folder
+   - Download the `.skill` file for the skill you want to use
+   - Save it to your computer
 
-#### Orchestrator
-**Skill:** `ideation-scamper`
+2. **Upload to Claude**
+   - Open [Claude.ai](https://claude.ai)
+   - Start a new conversation or use an existing one
+   - Click the skill icon (or use the `/` command)
+   - Select "Upload Skill" or "Add Custom Skill"
+   - Choose the `.skill` file you downloaded
+   - The skill is now available in your Claude interface!
 
-Guides you through all 7 SCAMPER techniques systematically to generate 30-50+ ideas.
+3. **Use the skill**
+   - Type `/` in the chat to see all available skills
+   - Select your uploaded skill from the list
+   - Follow the prompts Claude provides
 
-**Time:** 60-90 minutes for full session
+### For Developers (Clone the Repository)
 
-#### Individual SCAMPER Techniques
-Use standalone for focused exploration or as part of orchestrated session:
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/thinkbigleaders/claude-innovation-skills.git
+   cd claude-innovation-skills
+   ```
 
-1. **`scamper-substitute`** - Replace components with alternatives
-   - Materials, technology, processes, roles, channels, business models
-   - Example: Replace credit score with merchant trust score
+2. **Copy skills to your Claude project**
+   ```bash
+   # Copy the skill folder to your project's .claude/skills/ directory
+   cp -r customer-discovery ~/.claude/skills/
+   ```
 
-2. **`scamper-combine`** - Merge components in novel ways
-   - Features, services, data, processes, roles, purposes
-   - Example: Combine loan with business training
+3. **Use in Claude Code or Claude.ai**
+   - The skill will be automatically available
+   - Use `/skill-name` to activate it
 
-3. **`scamper-adapt`** - Borrow from other contexts
-   - Cross-industry, biomimicry, cross-cultural, historical, scale transfer
-   - Example: Adapt "buy now, pay later" from e-commerce to market lending
+### Manual Installation (For Any Skill)
 
-4. **`scamper-modify`** - Change attributes, scale, or properties
-   - Magnify/minify, speed changes, frequency, strength, form, flexibility
-   - Example: Magnify repayment frequency from monthly to daily
+1. Navigate to the skill folder you want to use (e.g., `customer-discovery/`)
+2. Copy the entire folder to your Claude skills directory:
+   - **macOS/Linux**: `~/.claude/skills/`
+   - **Windows**: `%USERPROFILE%\.claude\skills\`
+3. The skill is now available in Claude!
 
-5. **`scamper-put-to-other-uses`** - Repurpose components
-   - New users, new problems, new contexts, waste-to-value, secondary→primary
-   - Example: Use transaction analysis for business insights, not just credit scoring
+## How to Use Skills
 
-6. **`scamper-eliminate`** - Remove components to simplify
-   - Features, process steps, requirements, intermediaries, choices, time
-   - Example: Eliminate smartphone app entirely, use SMS/USSD only
+Each skill operates in two modes:
 
-7. **`scamper-reverse`** - Flip or reorder processes/relationships
-   - Process order, roles, direction, timing, ownership, information flow, power
-   - Example: Reverse pricing—borrowers propose interest rate, lenders compete
+### Interactive Mode (Recommended for First-Timers)
+Claude guides you step-by-step, asking for approval at key checkpoints.
 
-**Output:** 30-50+ diverse ideas across 7 creative thinking techniques → Ready for evaluation
-
-**Time:** 8-12 minutes per technique, 60-90 minutes total
-
----
-
-## Coming Soon (Phase 4-6)
-
-### Phase 4: Idea Evaluation
-**Skill:** `idea-evaluation` (Planned)
-
-Multi-criteria evaluation framework to rate and rank ideas.
-
-- Customer value, feasibility, viability, desirability, strategic fit
-- Weighted scoring with customizable criteria
-- Output: Top 3-5 ideas for deep validation
-
-### Phase 5: Critical Validation
-**Skill:** `critical-validation` (Planned)
-
-Six Thinking Hats deep-dive validation sequence.
-
-- White (facts) → Red (emotions) → Yellow (benefits) → Black (risks) → Green (solutions) → Blue (decision) → Red (final check)
-- Go/no-go/iterate decisions
-- Output: Validated ideas ready for implementation
-
-### Phase 6: Technical Breakthrough
-**Skill:** `technical-breakthrough` (Planned)
-
-TRIZ for solving hard technical problems and contradictions.
-
-- Top 20 inventive principles
-- Contradiction matrix (physical vs technical)
-- Called when Black Hat validation identifies hard challenges
-
----
-
-## Design Principles
-
-### 1. Global Diversity by Default
-- Examples rotate through different geographies
-- Cultural context always considered
-- Avoid Western/US bias
-
-**Example personas:** Chidinma (Nigeria market trader), Mei Lin (Singapore engineering manager), Rajesh (India rural shopkeeper), Anna (Sweden logistics manager)
-
-### 2. Connected Journey
-- Each skill builds on previous outputs
-- Clear handoff points between phases
-- Consistent example cases across skills
-
-**Core examples:** FairCredit (Nigeria fintech), AsyncFlow (SE Asia SaaS), SolarSeva (India solar), Unbroken (Sweden logistics)
-
-### 3. Standalone + Orchestrated
-- Skills work standalone for experienced users
-- Can be orchestrated in sequence for complete journey
-- Clear entry/exit points
-
-### 4. Rich Examples
-- Minimum 3-4 complete worked examples per skill
-- Diverse domains (B2C/B2B, digital/physical, different industries)
-- Show both successful application AND common pitfalls
-
-### 5. Actionable Templates
-- Every skill includes ready-to-use templates
-- Clear output format specifications
-- Integration guidance with previous/next phases
-
----
-
-## Installation
-
-See [INSTALLATION-GUIDE.md](INSTALLATION-GUIDE.md) for detailed setup instructions.
-
-**Quick start:**
-1. Clone this repository to your local machine
-2. Copy skill folders to your Claude Code skills directory
-3. Restart Claude Code or reload skills
-4. Invoke with skill name (e.g., `/customer-discovery`)
-
----
-
-## Usage Example
-
-### Complete Innovation Journey
-
-**1. Start with customer-discovery:**
+**Example:**
 ```
-/customer-discovery
-```
-Output: JTBD analysis + Globally diverse persona + Evidence gathering
-
-**2. Define solution with solution-definition:**
-```
-/solution-definition
-```
-Input: Your customer-discovery outputs
-Output: PRFAQ (press release + FAQ) + Closed World map
-
-**3. Generate ideas with ideation-scamper:**
-```
-/ideation-scamper
-```
-Input: Your PRFAQ + Closed World map
-Output: 30-50+ ideas across 7 SCAMPER techniques
-
-**Or use individual SCAMPER techniques:**
-```
-/scamper-eliminate      # Focus on simplification
-/scamper-reverse        # Focus on disruption
-/scamper-combine        # Focus on bundling/integration
+Use customer-discovery in interactive mode for a new fitness app
 ```
 
-**4. Evaluate ideas (coming soon):**
-```
-/idea-evaluation
-```
+### Autonomous Mode (For Experienced Users)
+Claude generates complete outputs based on your initial prompt.
 
-**5. Validate top ideas (coming soon):**
+**Example:**
 ```
-/critical-validation
+Use customer-discovery in autonomous mode for a new fitness app
 ```
 
-**6. Solve technical challenges (coming soon):**
+## Skill Structure
+
+Each skill folder contains:
+
 ```
-/technical-breakthrough
+skill-name/
+├── SKILL.md                    # Main skill file with full methodology
+├── assets/                     # Templates and worksheets
+│   └── template.md
+├── quick-reference/            # Quick reference guides
+│   └── quick-reference.md
+└── references/                 # Detailed frameworks and examples
+    ├── framework.md
+    └── example-outputs.md
 ```
-
----
-
-## Time Investment
-
-**Phase 1:** Customer Discovery - 4-8 hours
-**Phase 2:** Solution Definition - 3-6 hours
-**Phase 3:** Ideation (SCAMPER) - 1-2 hours
-**Phase 4:** Evaluation - 1-2 hours (coming soon)
-**Phase 5:** Validation - 2-3 hours per top idea (coming soon)
-**Phase 6:** Technical Breakthrough - Variable, as needed (coming soon)
-
-**Total for complete journey:** 12-20 hours from discovery to validated innovation
-
----
-
-## Methodologies Integrated
-
-1. **Jobs-to-be-Done** (Clayton Christensen) - Customer needs analysis
-2. **Persona Development** (Alan Cooper) - With global diversity emphasis
-3. **Working Backwards** (Amazon PRFAQ) - Customer-centric solution definition
-4. **Closed World** (Systematic Inventive Thinking - SIT) - Resource constraint mapping
-5. **SCAMPER** (Bob Eberle) - 7 creative thinking techniques
-6. **Six Thinking Hats** (Edward de Bono) - Parallel thinking for validation (coming soon)
-7. **TRIZ** (Genrich Altshuller) - Inventive problem solving (coming soon)
-
----
-
-## Examples Included
-
-### FairCredit (Nigeria Mobile Micro-Lending)
-Complete journey from understanding Lagos market traders' financial needs through SCAMPER ideation generating 50+ ideas including merchant trust scores, SMS-only interface, daily micro-payments.
-
-### AsyncFlow (Southeast Asia Remote Collaboration)
-B2B SaaS for distributed teams. Journey from understanding timezone challenges through ideas like async video messages, office hours, and flipped meeting defaults.
-
-### SolarSeva (Rural India Home Solar)
-Physical product + service. Journey from understanding rural shopkeeper energy needs through ideas like modular panels, community solar, and lease-to-own models.
-
-### Unbroken (Sweden Disaster-Resilient Logistics)
-B2B infrastructure software. Journey from disaster response requirements through ideas like mesh networking, offline-first architecture, and distributed data validation.
-
----
-
-## Documentation
-
-- **[HANDOFF.md](HANDOFF.md)** - Development roadmap and big picture
-- **[UPDATED-SKILLS-SUMMARY.md](UPDATED-SKILLS-SUMMARY.md)** - Detailed development history
-- **[INSTALLATION-GUIDE.md](INSTALLATION-GUIDE.md)** - How to install and use skills
-
----
-
-## Project Status
-
-**Current:** Phase 1-3 Complete (3/6 core skills + 7 SCAMPER tools = 10 skills total)
-
-**Progress:** 50% complete (3 of 6 phases)
-
-**Next Milestone:** Phase 4 - idea-evaluation skill
-
-**Last Updated:** October 2025
-
----
 
 ## Contributing
 
-This is a personal learning and development project. The skills are based on the "Innovating with ChatGPT" Udemy course methodology.
+We welcome contributions! Whether you want to:
+- Add a new innovation skill
+- Improve existing skills
+- Fix bugs or typos
+- Add examples or documentation
 
----
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit your contributions.
+
+## Innovation Workflow
+
+Use these skills in sequence for a complete innovation process:
+
+```
+1. Customer Discovery
+   ↓
+2. Solution Definition (PRFAQ)
+   ↓
+3. Ideation (SCAMPER)
+   ↓
+4. Idea Evaluation
+   ↓
+5. Critical Validation (Six Hats)
+```
+
+## Examples
+
+### Example 1: Customer Discovery for FinTech
+```
+Use customer-discovery in interactive mode for a micro-lending platform
+targeting small business owners in Nigeria
+```
+
+### Example 2: PRFAQ for SaaS
+```
+Use prfaq-writer to create a Press Release FAQ for an async collaboration
+tool for distributed teams in Southeast Asia
+```
+
+### Example 3: SCAMPER Ideation
+```
+Use ideation-scamper to generate ideas for improving our customer onboarding
+process using all 7 SCAMPER techniques
+```
+
+## Resources
+
+- **Working Backwards Assets**: The `Working_Backwards_assets/` folder contains reference materials, examples, and templates for the PRFAQ methodology
+- **Quick References**: Each skill has a `quick-reference/` folder with condensed guides
+- **Example Outputs**: Check `references/example-outputs.md` in each skill for real-world examples
 
 ## License
 
-See individual skill files for licensing information.
-
----
-
-## Course Basis
-
-These skills implement systematic innovation methodology from the Udemy course:
-**"Build a ChatGPT-Supercharged Product Innovation Machine"**
-
-The skills translate proven innovation frameworks into actionable Claude Code workflows with:
-- Global diversity emphasis
-- Rich worked examples across geographies and industries
-- Ready-to-use templates
-- Connected journey from discovery to validated innovation
-
----
-
-## Quick Reference
-
-**Customer needs unclear?** → `/customer-discovery`
-
-**Have customer understanding, need solution direction?** → `/solution-definition`
-
-**Have solution direction, need innovative ideas?** → `/ideation-scamper`
-
-**Need focused ideation on specific technique?** → `/scamper-[technique]`
-
-**Too many ideas, need to prioritize?** → `/idea-evaluation` (coming soon)
-
-**Top ideas need validation?** → `/critical-validation` (coming soon)
-
-**Hit a hard technical challenge?** → `/technical-breakthrough` (coming soon)
-
----
+This repository is open source and available for use in your innovation projects. Feel free to fork, modify, and share!
 
 ## Support
 
-For issues, questions, or feedback:
-- Review documentation in this repository
-- Check skill SKILL.md files for detailed guidance
-- See example-outputs.md in each skill's references/ folder
+- **Issues**: [Report bugs or request features](https://github.com/thinkbigleaders/claude-innovation-skills/issues)
+- **Discussions**: [Join the conversation](https://github.com/thinkbigleaders/claude-innovation-skills/discussions)
+
+## Credits
+
+Created and maintained by the Think Big Leaders community. Built on proven methodologies:
+- Jobs-to-be-Done (Clayton Christensen)
+- Working Backwards / PRFAQ (Amazon)
+- SCAMPER (Bob Eberle)
+- Six Thinking Hats (Edward de Bono)
 
 ---
 
-**Happy Innovating! 🚀**
-
-From customer discovery to validated innovation in 12-20 hours using systematic, proven methodologies.
+**Ready to innovate?** Start with [customer-discovery](./.skill-files/customer-discovery.skill) to understand your customers deeply!

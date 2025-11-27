@@ -1,0 +1,855 @@
+PRFAQ
+The PRFAQ Framework provides a structure that makes it easier to write and consume a strategic narrative. It’s not quite “paint-by-numbers,” but closer to that than to a blank page. It provides the artifact for people to internalize the idea, clarify key aspects of it, and offer feedback to make it better. It’s a system to develop a better hypothesis for a vision and strategy.
+The PRFAQ Template
+A PRFAQ is a document with four sections:
+1.
+A narrative of a future state, written as a press release (PR)
+2.
+A customer focused Frequently Asked Questions (FAQ)
+3.
+An internal-only FAQs
+4.
+An optional appendix with supporting materials.
+The core of the PRFAQ is the first three sections above. People will read these and have clarity into the problem we are solving, the opportunity we are pursuing, the solution, and its benefits. Sections 1 and 3—the PR and internal FAQs—are required. Section 2 is required
+5
+48 | The AnatomyNATOMY of a PRFAQ
+if the customer is not internal (i.e., not employees or another team). Section 4 is optional but recommended.
+You write the press release and the customer FAQs in the present tense, but you assume a future state of the world. It’s an aspirational state for the product. This is where you paint a picture of how it will look when you launch it, as if it’s happening today. The internal FAQs and the appendix are based on facts or assumptions about what we know today.
+On the PRFAQ document, the PR takes the first page. The customer FAQs also take one page only: page two. And the internal FAQs take between two and four pages. The core of the document is between four and six pages. You want each part starting on a new page to provide a break in the reading rhythm and allow people to switch contexts.
+Figure 5.1 The six core pages of a PRFAQ document.
+You format the FAQ sections as a list of questions and their respective answers. We’ll go into the details in Chapter 8.
+Finally, the appendix contains the supplemental content used as references when needed. It might include wireframes, mockups,
+THE PRFAQ FRAMEWORK | 49
+screenshots, renderings, pictures, tables, diagrams, projections, research data, references to articles or external research, etc.
+In the following chapters, I’ll describe each of these sections in depth. In the Prologue and Bonus Part of this book, I’ve included four PRFAQs from fictional companies to help you get a sense of how these elements come together. Because of the limitations of a book format, these examples don’t follow the exact formatting and style that a PRFAQ must follow. Find the PDFs that follow the correct formatting at www.theprfaq.com/resources.
+Formatting a PRFAQ
+The constraints of the PRFAQ are what make it liberating. There is a set of rules that are important to guarantee consistency and set expectations for the people contributing to this process. If each PRFAQ differs in style, format, structure, and what’s included, readers will spend precious brain cycles to situate themselves before they can effectively navigate the document. This is like a student application to a university, a founders’ application for an accelerator program, or a research application for a government grant. The standardization helps those creating the content provide the correct information and helps the people reviewing it to know what to expect and how to navigate the information.
+We want to focus on the merits of the idea, not on the scaffolding to display the idea (a widespread problem with PowerPoints). Like any change, this will feel uncomfortable in the beginning. Yet, once you start using this system, you’ll find it difficult not to have them. PRFAQs are like cheat sheets for sharing valuable information.
+In our digital world, it might feel like these details are not as relevant. Technology enables users to resize their browsers, increase font sizes, or switch between dark and light modes on their desktops or mobile devices. However, much of the guidance below works across mediums and provide the guardrails for you to write a great document. They were tested in the real world, and they work!
+You can find templates for this formatting at www.theprfaq.com/resources.
+50 | The AnatomyNATOMY of a PRFAQ
+Document Length
+The core of the PRFAQ, which includes the PR part and the FAQs part, excluding the appendix, is between four and six pages and never more than six. This is important because it’s an optimal length to keep people’s attention while providing them with the proper density of information. If it’s too small, it likely won’t have enough depth to include the information needed, and the document will feel more like a slide deck requiring you to answer key points verbally. If it’s too long, it’s challenging for people to understand, think, and retain the information for a productive conversation. Four to six pages is an ideal length for people to read and make notes on the document in twenty to twenty-five minutes. In Chapter 14, you’ll learn why this timing is crucial.
+A typical document will have 450 to 550 words per page, for 1,800 to 3,300 words total. Adults in the US have a reading speed of 238 words per minute15. However, there are significant variances. The middle fifty percent of the US population reads between 235 and 460 words per minute. It varies by individual, time of day, fluency in English, and the complexity of the content. PRFAQs are not as easy to read as an article about celebrity gossip. For that reason, two hundred words per minute is a reasonable rate that likely gives you room for it to work for people in your organization. That means it’ll take between nine (light four pages) and eighteen minutes (dense six pages) for people to read it. Add time for readers to highlight, take notes, make comments, re-read passages that are more complicated, etc. This typically accounts for five to seven minutes, for a total of fifteen to twenty-five minutes, hence the limit of six pages. In Chapters 14 and 15, we’ll discuss how to use your PRFAQ in review and decision sessions.
+Line Number, Links, and Notes
+Line numbers are the most jarring difference between your experience with business documents and PRFAQs. Every PRFAQ has line numbers turned on. This is important because it speeds up the review sessions (see Chapter 13) in two ways: The person reading
+THE PRFAQ FRAMEWORK | 51
+the document can easily mark the lines they want to ask a clarifying question or provide feedback about. It helps the author quickly locate what’s being referenced. Saying, “On line 127, you said…” is faster and more precise than saying, “On page 3 on the third paragraph, second to last line, you said…” Another reason that line numbers are good for business documents is because it’s much easier for a reviewer to pause and return to the document without spending too much time finding where they stopped, and even for them to take personal notes.
+PRFAQs don’t include hyperlinks. Adding links that reference critical information creates the assumption that people need to follow those links. We include critical information in the document itself. If you want to add references, include them in the appendix. If it’s one or two links, add them as a footnote. The exception to the hyperlink rule is if you are using them to reference the product you are launching and its website because it is core to the narrative.
+Typography
+There should be no creative freedom in the choice of font family. If it’s a Microsoft Word document, the standard should be Calibri, Aptos, or Arial. In a Google Doc, it should be Arial or Calibri. Within your organization, I encourage you to pick a standard font family that everyone must use. Serif fonts like Times New Roman or Garamond (used in this book) improve readability for long-form text. But people are familiar with sans-serif in business documents. Our goal is to have people not think about the document font family and use their cognitive power on the content.
+You also want to set the standard for your organization for the font size. The ideal font size is 11pt. Font size affects readability and comprehension. People assume the reason for not using smaller font sizes is to help those with reading glasses. It helps them, but it does much more. It helps reduce eye strain and fatigue for everybody and improves the document’s appearance because there is more white space. If you are using 10pt or even 9pt on your document to fit more content in six pages, you are taking a shortcut instead of doing the right thing and editing your PRFAQ.
+52 | The AnatomyNATOMY of a PRFAQ
+For headings, the defaults for Word and Google Docs are too big and distracting. You don’t want your headings to be a design statement but simply play the role of precise separators. Here’s the list of how to use your headings:
+▪
+Heading 1—12pt, bold—Use as the heading for each section.
+▪
+Heading 2—11pt, bold—Use for the questions in the FAQs sections and the appendix.
+▪
+Heading 3—11pt, italic—Use (rarely) if FAQs need two or more parts, and in the appendix.
+▪
+Sub-heading—11pt, italic—The sub-heading of the PR.
+▪
+Normal Text—11pt—The body of the press release, the answers to the FAQs, and the text in the appendix.
+▪
+Footer—10pt—Use (rarely) to call out a link or piece of research data.
+The only color for the text is black, 100 percent black. Page headers and footers are dark gray to “mute” them in the document. Don’t use highlights or underlines for emphasis. Avoid bold and italic as well. You want to write a text that’s clear, concise, and coherent, and for the PRFAQ to deliver on its value, people must read it thoroughly. Bold and italic formatting in the text creates focus points, and our brains switch from linear reading to skimming. That’s the opposite of what you want. The one exception for italic text is when you have an ambiguous word that’s both a common word and the name of a product or service. In certain sentences, people might misread it, so italicizing it tells the reader that you’re using it in a specific way.
+Paragraphs & Margins
+Your document margins should be a simple 1-inch for each side to provide the document with breathing space. Compressing the margins to fit more content (similarly to reducing the font size) will lead to longer lines and text (because you didn’t edit it properly) and consequently reduce its readability.
+THE PRFAQ FRAMEWORK | 53
+It’s the same concept for paragraph line spacing. You want to give space between the lines, so the text does not feel so dense that people’s brains shut down. The ideal line spacing is single spacing with a 6pt space added after each paragraph.
+Content Style
+Using a restaurant analogy, the content of the document is the food you eat. That’s the most important thing. The formatting of the document is the restaurant physical space. You mostly want it to not get in the way, but it should also put people in a certain state of mind. The content style refers to the vessel you serve the food with. Using the wrong plate or silverware can ruin the food, even though it’s the exact same food. Pasta served on a plate would doesn’t feel the same if blended and served in a glass of wine, even though they have the exact same ingredients. One is inviting; the other is repulsive. The text you write follows a similar rule. Writing with sentence fragments, nested bullet points, jargon and weasel words, inconsistencies, and grammar and punctuation errors is like blending pasta.
+Bullet Points & Numbered Lists
+Narratives don’t have lists. They have fully formed sentences. You should avoid bullet points like the plague in your PRFAQ. For two or three items, list them in the paragraph. For four or more items, you should ask yourself why you need a list. Can you expand into sentences instead?
+If you need to list the integrations, partners, features, or widgets you make, you might consider compressing the information into a single line, such as, “We offer seventeen types of jams, including apricot, apple, and lingonberry.” Consider moving long lists to the appendix to avoid breaking the reader’s flow.
+Use the same tactic for numbered lists. You use numbered lists when it’s a priority, or an order of events or steps. It also helps when you have many items, making it easier for people to reference them by
+54 | The AnatomyNATOMY of a PRFAQ
+number. In general, if you have three or four items, you want to put them in line in the paragraph.
+If you need to talk about four items, know there is something magical about lists of threes, and drop one. This is known as the “rule of three.” Psychologists, economists, and communication researchers have studied it extensively. In short, the Rule of Three tells us that people are much better at remembering and understanding three items. We are not clear exactly why this works, but we know it does. Business consulting companies even train their employees to make use of the rule of three when discussing topics, drafting reports, making proposals, or offering choices.
+Non-Text Elements
+For the six pages that make up the core of the PRFAQ, avoid including any images, diagrams, or illustrations. You are not finding a compromise between a PowerPoint and a narrative. You are going for the narrative format. There are rare occasions when a succinct description can’t do the job well. Images, diagrams, illustrations, and even tables are like nectar for a bee. People will ignore the text and focus on the other stuff. That’s why social media posts with images do so much better than the ones without. We are aiming for the opposite. Using non-text elements is a crutch in narrative writing.
+Pronouns
+There is no “I” in a PRFAQ. Whether you are a solo founder and wrote 100 percent of the document OR part of a large team, use “we” when needed to convey this is a collaborative work and a collective decision. One thing you won’t see in a PRFAQ is the author’s name. Nowhere in the document will you list who wrote it! This is a signal to discuss the idea’s merits and not personify the project.
+THE PRFAQ FRAMEWORK | 55
+Tone, Language, and Grammar
+It’s a business document, so you should use the proper business style. Use complete sentences with proper grammar, capitalization of words, and punctuation. Somehow, in the tech world, we capitalize too many words for No Specific Reason. Don’t use slang, idioms, and pop culture references.
+Brackets
+One synthetic hack for your PRFAQ is to put assumptions or placeholder language in square brackets. That signals you don’t have the data or haven’t decided, and the item is up for discussion. Well, everything in a PRFAQ is up for discussion. Square brackets indicate to the collaborators that you are explicitly seeking feedback and data or that you need research to figure it out. Here are examples:
+▪
+Prices: “The subscription will be [$19.99] per month.”
+▪
+Product names: “We are launching [Hebe], a new service…”
+▪
+Guesstimates: “We found that [63 percent] of Americans want to…”
+▪
+Features: “We’ll provide [unlimited storage] for subscribers…”
+Precise Writing
+The last piece of the content style is precise writing. This topic is so big that it deserves its own book. And there are many good books about it. The next chapter will cover this in more detail.
+Key Takeaways
+The PRFAQ framework is a document with four parts: a press release, a customer FAQs section, an internal FAQs section, and an optional appendix. The first three sections are between four and six
+56 | The AnatomyNATOMY of a PRFAQ
+pages. It’s all text with very specific formatting. Avoid using images, tables, bullet points, colors, and other “creative” elements.
+PRECISE WRITING
+Business writing is not poetry. You will not describe the warmth of the sun in twelve rhymed sentences. You’ll write about watts per square meter, explain how it changes depending on latitude, and describe the impact on roof angles depending on building code from city to city. It’s not romantic. It’s precise. It’s important for you to learn how to write with precision. The lessons in this chapter are not only applicable (and crucial) to creating a PRFAQ, but they will also change how you approach all professional writing. It’s one of those things that you can’t unsee.
+A pervasive form of imprecise writing is sales and marketing pitches, which use hyperbolic language that customers often struggle to understand. Here’s a challenge for you. Pick ten startups at random, visit their websites, and see whether you can tell what they do by the text on their home pages. That type of marketing content might work to sell a product or service, but for decision-making, that style is not appropriate.
+Before I dive into precise writing, let’s talk briefly about overdoing it, particularly if you come from academia or a scientific research background. If you work in a science, technology, engineering, or mathematics (STEM) field, you are familiar with technical documentation, scientific writing, and functional specifications. These are one end of the spectrum of precise writing. They are “dry” to
+6
+58 | PreciseRECISE Writing
+read and difficult to understand if you don’t have the foundational knowledge. More importantly, they are not inspiring. Precise writing is essential, but you want to humanize your PRFAQ and deliver an inspiring message about why this project will exist in the world. You want people to connect with the story.
+The irony of precise writing is that it disappears in the background and leaves you with the content. People reading the text don’t stop to say, “This is great writing.” They will focus on the substance of the content and not even realize the effort it took to make as such.
+For a PRFAQ to be effective, you must balance precision, inspiration, aspiration, and engagement. If you overdo it in any of these dimensions, you’ll end up with a document that is difficult to understand, full of fluff, or boring. The science of precise writing is to maximize comprehension and completeness while minimizing confusion and cognitive load.
+Precise vs. Imprecise
+Let me give an example of imprecise writing and precise writing. In 2024, Google and Amazon earning calls were just days apart. Both called out the infrastructure cost to support AI as an added operational cost.
+Here’s what Google said on its earnings call:
+This infrastructure is also key to realizing our big AI ambitions. It’s a major differentiator for us. We continue to invest responsibly in our data centers and compute to support this new wave of growth in AI-powered services for us and for our customers. Through this, we are being disciplined in how we run the company.
+You’ve heard me talk about our efforts to durably reengineer our cost base and to improve our velocity and efficiency. That work continues. Teams are working to focus on key priorities and execute fast, removing layers and simplifying their organizational structures. As just one example, our devices team has brought together different
+THE PRFAQ FRAMEWORK | 59
+teams from across Nest, Fitbit, and other teams into a new functional structure.
+Now, here’s Amazon delivering a similar message on its earning call:
+Next, let’s turn to capital investments. We define our capital investments as a combination of Capex plus equipment finance leases. In 2023, full year Capex was $48.4 billion, which was down $10.2 billion year-over-year, primarily driven by lower spend on fulfillment and transportation. As we look forward to 2024, we anticipate Capex to increase year-over-year, primarily driven by increased infrastructure Capex, support growth of our AWS business, including additional investments in generative AI I and large language models.
+One thing I’d like to highlight in our first quarter guidance is that we recently completed a useful life study for our servers, and we are increasing the useful life from 5 years to 6 years beginning in January 2024. We will have this anticipated benefit to our operating income of approximately $900 million in Q1, which is included in our operating income guidance.
+Even if you know nothing about finance and capital expenditure, even if you don’t know squat about data centers, AI, or depreciation, you can tell that Amazon’s message delivers credence and trust. That’s precise writing. Google’s statement sounds vague and evading. You can read the Google statement several times and still not be able to tell if Google is spending more, less, or the same on infrastructure. There is nothing in that statement that a finance analyst—the primary customer of earning calls—can use. When an X (Twitter) user noticed this16, Amazon employees and ex-employees were quick to point out that this is how all writing is done within Amazon. When you get used to precise writing, imprecise writing becomes painful to read.
+There are books dedicated to business writing that talk extensively about precise writing. They offer tips and tricks, some of which I’ll describe below, to help you elevate the precision of your writing. These skills take practice, so don’t worry if you struggle in the beginning.
+60 | PreciseRECISE Writing
+Precise writing should be the standard form for all your business writing, not only PRFAQs. That applies to business messages, user stories, bug reports, promotion documents, headcount requests, analysis reports, retrospective documents, and everything else. I dare say that precise writing should even be used in your company blog posts, whitepapers, and customer support emails. When you publish an announcement or research on your website and use precise writing, you’ll see orders of magnitude more impressions. A few companies publish fantastic content using precise writing, such as CloudFlare, AWS (of course!), and SparkToro (a Seattle-based marketing startup).
+Now, let’s get into the details of precise writing.
+Remove Redundancy
+Redundancy is unnecessary in precise writing. You say what you want to say once and move on. If you repeat points throughout the document to make sure they stick, you are likely creating a bigger problem by inflating your document and reducing its overall readability.
+In a PRFAQ, there will be some redundancy between the PR part and the internal FAQs part because you’ll be tackling the same point but from different angles. You should be deliberate about it. This also brings the expectation that people should not be skimming the document; otherwise, they will miss key information relevant to the strategic conversation. If your collaborators are not familiar with PRFAQs, you should make a point about the importance of not skimming it.
+Bad:
+We are moving out of our data center-based server solution to a cloud-based compute solution that will give us the ability to dynamically scale our servers to reduce latency due to bottlenecks on our APIs when we are connecting with our mobile apps during peak times. This will also reduce our cost by moving our Capital Expenditures, which are long-term investments in physical assets, into an Operational Expenditure, which are the ongoing costs of running the business.
+THE PRFAQ FRAMEWORK | 61
+Good:
+We are migrating to a cloud-based architecture.
+Use Data, Anecdata, or Anecdotes
+Accurate and relevant data bring a sense of trustworthiness to a document—even if the data are not your data but from a study or report you found. It’s a powerful mechanism for people to see the work behind creating the document. More valuable than data alone is to include first hand customer anecdotes that reinforce them.
+People rationalize data but connect with stories. For example, you can talk about the difficulty of buying solar panels, the cost of installation, and potential adoption curves as the price goes down. However, you make the data stand out if you pair that information with the quote from Kelly, who said, “We looked to install solar panels in our house, but the price was above our budget. We will wait a couple of years.” The combo of data plus customer story is the narrative you aim for in your PRFAQs.
+However, not all data are created equal. You want to use data that reinforce your story, not just for the sake of having it. Any data that support the problem you are solving, the size of the market (existing or potential), competitors’ reports, or trends in cost are relevant and valuable to your PRFAQ. Avoid sentiment analysis data (a.k.a. “squishy data”), old data, or data tangential to your project.
+When presenting data, you want to connect the dots for the reader and avoid asking them to do math or rely on prior knowledge of the topic. It might be obvious to you why data point X relates to the problem or the solution, but not everyone will get it.
+Finally, sometimes you don’t have the data because it’s a nascent industry or very challenging to collect and analyze. However, you can (and should) always interview customers to collect qualitative or quantitative data. When you have anecdotes from too few customers to draw significant data, but you can extrapolate themes, you call it “anecdata.”
+62 | PreciseRECISE Writing
+Bad:
+We believe the majority of our customers are struggling to use our API because of the complexity of the auth API flow. We see a drop-off in the funnel between users who create an account and users who use the API to access the analytics information.
+Good:
+We talked to six customers who created an account but didn’t use the analytics API. Two of them said they had other priorities and would go back to try in a few weeks. One said they changed their mind about integrating via the API and prefer to continue to use the dashboard. Two said they didn’t understand if the analytics API would serve their needs, and one couldn’t make the auth API work.
+Better:
+We did a funnel analysis of people who signed up to access our API and called the analytics API at least once. Out of the 85 customers, 55 read the documentation, and 47 successfully authenticated and accessed the analytics API at least once.
+These three different statements lead to three different solutions being at the top of people’s minds. The first implies the solution is to simplify the auth flow. It’s full of biases and assumptions you can’t know are true because they are so imprecise. The second has further information, but it will lead people to believe that the analytics API needs a redesign because it’s not serving the customer needs—notice how it starts from a sampling bias point (“people who create an account but didn’t use the analytics API”). The third is precise, and you can see that the problem is not that people didn’t understand the auth API or find value in the analytics API; it’s that they “fell off” the funnel between signing up and reading the documents. While the solution for the first and second might be about better APIs or better documentation, the real opportunity in the example is how to reengage customers who created an account and did nothing.
+THE PRFAQ FRAMEWORK | 63
+Present Numbers and Their Meaning
+We know too much about our idea. We researched the problem, the customer, the market, and everything in between. As humans, we suffer the Curse of Knowledge (see more in Chapter 9), which is our inability to see the perspective of those who don’t know what we know. We don’t even think about it; we just write as if certain things are widely accepted truths or mainstream knowledge. For each data point that is present, it’s best to be explicit about its meaning. Is it good, bad, or neutral? What’s the impact on the business or the customer if it goes up or down? Is more of it better or worse?
+Bad:
+Solar panels today can generate 400 watts of power.
+Good:
+Solar panels today can generate 400 watts of power, which is 50% better than 15 years ago.
+Better:
+Solar panels today can generate 400 watts of power, 50% better than 15 years ago, and 95% of houses in the US can accommodate six panels, which can supply 50-120% of the household needs.
+Appendix B has an expanded explanation of how to write numbers in a PRFAQ to help with precision and readability.
+Watch Out for Indefinite Numbers
+There are several ways that you can overuse indefinite numbers. The first sentence in this paragraph is an example of it. The words several, some, many, few, a lot, most, and all the other variations must be justified. You are better off writing the precise quantity. Also, ensure numbers have units with them to avoid confusion. Don’t confuse
+64 | PreciseRECISE Writing
+reviewers (and yourself) by mixing units, percentages, percentiles, and basis points (BIPS). Mixing these causes the reader to take longer to understand what you are going for.
+Bad:
+1) Most engineers prefer the report to be delivered before 9:00.
+2) Several customers complained about the row limit in the dashboard since it prevented them from exporting some data at once.
+3) In March, we saw our conversion rate improve by 17.5%, with 11K new sign-ups.
+Good:
+1) 63% of engineers prefer the report to be delivered before 9:00 p.m. PST
+2) Four out of ten customers complained about the 1,000-row limit in the dashboard since it prevented them from exporting all order data at once.
+3) In March, our conversion rate went from 13.7% to 16.1% (17.5% improvement), delivering 11,543 new sign-ups.
+Avoid Weasel & Squishy Words
+Go to your favorite search engine or Large Language Model (LLM) and ask about the most meaningless and overused business words. Avoid those. Among them, you’ll find strategy, leverage, ideation, vision, value, and dozens more. What makes a word a weasel word is that it’s not adding to the sentence or is being used in place of concrete data, an example, or a statement. Weasel words represent a lack of commitment or certainty, as in “may” or “could.” These words also appear in sentences that deliver a wishy-washy statement, such as “If we find errors, we’ll correct them.”
+THE PRFAQ FRAMEWORK | 65
+There are also squishy words. These words feel important and heartwarming, but their meaning is ambiguous or vague—the exact thing you don’t want in precise writing. Words like liberty, freedom, choice, global, collaboration, satisfaction, and inclusivity are squishy.
+Appendix B includes a list of weasel and squishy words to consider removing from your documents.
+Bad:
+We are giving our users many more options for them to choose from in order to satisfy their needs.
+Good:
+(remove the entire sentence)
+Remove Jargon
+We’ve been there. We joined a new team or attended an event and had no clue what people were talking about. We notice when we are on the receiving end of peers using jargon, but hardly when we are using it ourselves, particularly if we’ve been using it for a while. The Curse of Knowledge strikes again. When someone joins the team or a person from another division is reading the document and asks what that word, acronym, or abbreviation means, it’s our clue that we are too deep in that lingo.
+An effective way to reduce the jargon from your writing is to give your text to someone who is not familiar with your industry or organization to highlight things they don’t understand. You don’t even need to explain it to them. These are “buzzwords” or terminology widely used in one context but not others. If you must use jargon, ask yourself if any reviewer of your PRFAQ might not understand it or, worse, misunderstand it. For example, what are the chances that people know what “soft launch,” “retrospective,” or “bill of materials” means? What are the chances they have a version of the meaning in their head that doesn’t match your version?
+66 | PreciseRECISE Writing
+Bad:
+Moving forward, Titan will be the R-team for the K8s deployment using the prdk repo for CF.
+Good:
+Moving forward, the Titan team will be the responsible team for deploying our Kubernetes cluster using the prdk repository for Cloud Formation templates.
+Better:
+Now, the platform team manages our cloud infrastructure.
+Spell Out Acronyms and Abbreviations
+Since we are talking about BOM, what do you think about the BOM for this project? Unless you have worked in hardware or are familiar with the hardware industry, you won’t know that BOM stands for “bill of materials,” the total cost of materials to produce a device. Now, if I use the abbreviation “DC,” what do you think it stands for? What about “PR,” “SOC,” “HD,” or “PV”? A meaning comes to your mind because you have a strong association with the abbreviation or because of your state of mind when reading it. Is the meaning you thought of the same interpretation as the one from the person reading your document? Do you think District of Columbia, Press Release, Standard of Care, Hard Disk, and Present Value, or do you think Data Center, System on a Chip, High Definition, and Page Views? PR is confusing enough: Press Release, Public Relations, Pull Request, Page Rank, Puerto Rico, Personal Record, Purchase Request, or Performance Review. Imprecise!
+Why not save the cognitive load of the person you are writing for by telling them explicitly what you mean? Precise writing avoids acronyms and abbreviations by being explicit when needed, but only when needed. You don’t have to spell it out every single time if there
+THE PRFAQ FRAMEWORK | 67
+is no more ambiguity. At the beginning of the book, I defined PR as press release. That settles it for the rest of the book.
+Bad:
+The PR caused a spike in the CCs, which affected our AHT and increased our CPC.
+Good:
+The press release caused a spike in customer contact (CC), which affected our average handle time (AHT) and increased our cost per call (CPC).
+The first time you introduce an acronym or abbreviation, you want to spell it out in full and show in parentheses how you’ll be referring to it. For example, you might write “the pull request (PR) caused” and in later parts of the text, use “PR” only since you already explained the meaning. Your typical business or technical document is full of these types of abbreviations. Many people don’t know what some of them mean and are afraid to ask, even though they use them in their daily jobs. Stop with this misunderstanding pitfall.
+The exception to this rule is if there is no room for misunderstanding. For example, you don’t need to spell out NFL, SDK, or API unless, of course, they don’t mean the National Football League, Software Development Kit, or Application Programming Interface. Other acronyms that require no explanation include GDPR, HIPAA, FBI, IRS, HTML, USB, CEO, IPO, ROI, etc. The professional world understands them well.
+Clarify Date & Time
+English is the preferred language of the business and tech world. However, date and time continue to create an elusive problem because there are variations worldwide, and people who grow up in one system often misunderstand the other. Imagine you grew up in Toronto, work in Dallas, and read a message sent to you from a colleague in London
+68 | PreciseRECISE Writing
+(who was born in Seoul) that says, “You must press the red button on 5/7 at 8:35, or the power plant in California will shut down!” You might as well start freaking out now. Do they mean May 7th or July 5th? Is it 8:35 a.m. or p.m.? Which time zone? London, Dallas, or California?
+You might say that’s not an issue because you are an American working in the US, and your organization has no business outside the US. All neatly packed in a single office. If there is a single non-American in your company, this person might be confused. Or the software that will read the content and parse it out might get confused. Or when the company expands, and someone revisits that document, they might be confused.
+The solution is simple and doesn’t cost you or your audience any other cognitive load. Spell out the month and add time notation with time zones.
+Bad:
+The launch will be on 5/7 at 8:35.
+Good:
+The launch will be on May 7th, 2025, at 8:35 a.m. Los Angeles time.
+If the document mentioned that the year is 2025, repeating it is unnecessary. The key point is to not leave room for misunderstandings. Software engineers prefer to spell out dates using the Japanese date notation since it’s easier for computers and humans to understand it: 2025-05-07. That’s fine too.
+Use Active Voice
+Who did what? Who did what? Who did what? Repeat ten more times. It’s faster to read and easier to understand sentences in the active voice. Active voice sounds authoritative. Sadly, passive voice is used often. Wait, I just did it in the earlier sentence. I meant to say we use passive voice often. These two sentences describe a passive voice sentence
+THE PRFAQ FRAMEWORK | 69
+(the clue is “is used”) and an active voice. The passive voice leaves our brain full of questions and open doors. Your reader’s working memory might get overloaded if you structure long sentences using passive voice17.
+Bad:
+The production website was broken by a change on Friday that was fixed on Saturday morning.
+Good:
+The marketing manager made a change that broke the website on Friday, and he reverted the change on Saturday morning.
+Passive voice makes it sound like those actions materialized out of the blue with no agent causing them. Generally, you’ll realize the agent is a person, a team, or an organization. Occasionally, it’ll be nature. It might even be a ghost for all I care, but there should be a subject in the sentence who caused something. The more sentences you structure in the active voice, the easier it will be for people to read and understand your text.
+Consistency of Words and Terms
+Lack of consistency is a problem because it confuses the reader. If in the first paragraph, you refer to the thing as a “project,” then a few paragraphs later you refer to it as an “initiative,” and in a few more paragraphs, you say “activity,” you aren’t making it easier on the reader. You are asking the reader to bring the associations they have in their brain for all these words and decide if they’re referring to the same thing. Having multiple hands writing the document is one of the sources of inconsistency. It’s hard for co-authors to naturally use the same words, terms, sentence structure, language styles, formatting, etc. That’s why it’s best for a single person to be “holding the pen” and committing every piece of text to the document.
+70 | PreciseRECISE Writing
+Consistency also shows up in the style of acronyms (“US” vs. “USA” vs. “U.S.”), year and data formatting (“1995” vs. “95”; “Aug” vs. “August”), or the spacing after the period—don’t use double spaces! Style and formatting also need consistency. The line spacing, the font family and size, the colors, the alignment, and everything else related to the format of the document must be consistent. You might not notice and consider it nitpicky, but many people, including yours truly, notice it very much. This lack of consistency suggests carelessness, a lack of attention to detail, and, in some cases, incompetence. I find it acceptable to have typos and consistency issues in an email or chat message. Not so much in a document that’s thoroughly revised and used.
+Cut Adjectives and Adverbs
+Adjectives and adverbs are tricky beasts. I will not lecture you on grammar or the English language. However, the average person overuses them without even noticing. And I’m using “average” to mean everybody in this case, including me. We think these modifiers add a necessary flair and sophistication to the writing. We are so used to seeing them in clickbait headlines, ads, newscasts, and marketing materials that we assume it’s the right way to write and speak. They increase word count and bring no value to the table.
+As a quick refresher, adjectives apply to nouns, and adverbs apply to verbs. These are examples of adjectives proving themselves useless: blue sky, shallow tub, smooth paper, fast GPU, noisy truck, etc. The expectation is that the sky is blue already. You are not reinforcing an idea; you are being redundant. When needed, use an adjective to emphasize the opposite of the expectation, as in “quiet truck” or “red sky.” Adverbs suffer a similar fate: smiled happily, ran quickly, or appeared suddenly.
+Adjectives and adverbs are not good for precise writing. If you read a paragraph full of them, you’ll notice the paragraph loses its credibility. It might feel like someone is selling you something you don’t want.
+THE PRFAQ FRAMEWORK | 71
+Bad:
+Our world-changing innovation will significantly impact your ability to deliver high-quality coffee services with maximum durability and excellent cost-saving efficiency.
+Good:
+Our brewing station delivers quality coffee with a durable and cost-effective solution.
+Better:
+Our brewing station brews espressos with a 99.7% consistency. It produces 10,000 brews without maintenance and costs $0.17 per brew.
+Appendix B includes adverbs and adjectives for you to keep your eyes on and avoid.
+Simplify Your Expressions
+We get used to certain expressions without realizing they are a verbose way of saying something simple. Use the simple version. Here are examples:
+▪
+Due to the fact that  because
+▪
+At this point in time  now
+▪
+In order to  to
+▪
+Despite the fact that  although
+▪
+Has the ability to  can
+▪
+For the purpose of  for (or to)
+▪
+In the event that  if
+▪
+It is worth noting that  (omit)
+▪
+It might be argued that  (omit)
+72 | PreciseRECISE Writing
+▪
+The point we are making is that  (omit)
+▪
+In my opinion, I think that  (omit)
+Two favorites of mine that I must watch out for are “also” and “just.” In Appendix B, we have a list of verbose expressions for you to find and remove from your document.
+Clean Up Your Punctuation
+Watch out for those exclamation points! Similarly to using bold formatting or underlining your text, too many exclamation points dilute your message. Never use an exclamation point in the title or subtitle of your document. I’d save the one or two in your document for when you are making a statement about something outrageous or unexpected. For example, you discovered that 97 percent of people love their TV cable provider! That’s worth an exclamation point.
+Side notes or observations in parentheses should also be rare. If it’s important enough to be included in the document, don’t treat it like an afterthought.
+Pitfall of Linear Causality
+Our brain is wired to see causality where none exists. We often mistake correlation for causation. This phenomenon goes unnoticed in writing if you don’t pay close attention to the order of the words and sentences you write. You want to be precise in your writing, so the order in which you present information should follow cause and effect, not the other way around. Here’s a bad sentence: “The road was wet. It was raining.” These sentences have the effect first, and the cause second. Because of your previous knowledge, you’ll not think that wet roads make it rain. In business writing, this might not be as clear. Suppose I say, “The servers were timing out. Users kept refreshing the page.” Which one was the cause, and which one was the effect? Be deliberate about the order in which you reveal information and write your sentences, so they feel linear.
+THE PRFAQ FRAMEWORK | 73
+Remove Sarcasm
+There is no place for sarcasm, satire, or cynicism in precise writing. Readers might not understand the nuances you are making, and it’s better to be explicit than to assume everyone will get your point. Steer away from jokes or clever puns. Chances are, at least one person won’t get it, and they will be confused (in silence) or consume precious time discussing what you mean.
+Bad:
+Fossil fuel has been great for the air as much as plastic has been great for our oceans.
+Good:
+Fossil fuel and plastic have been bad for the environment.
+Better:
+(omit because the statement above is obvious)
+Avoid Double Negatives
+Sentences with double negatives are harder to read. Double negatives aren’t only about “no” and “no” but also about a word that already implies the negative aspect of something. Many words have a negative version, so it’s better to simplify your text. Instead of using “not simple,” use “complex” (or “complicated”); instead of saying “I hope they don’t misunderstand,” say “I hope they understand.”
+Bad:
+Customers don’t want to avoid the use of comments for collaboration.
+74 | PreciseRECISE Writing
+Good:
+Customers use comments for collaboration.
+Be Concrete
+Concrete writing is precise. And it’s memorable. There are two problems when presenting information in abstract terms. First, you assume people will interpret the information the way you intend. Second, you fear people will interpret the information in another way. It’s the same problem from two different perspectives. If I say the object is a chair for a table, no one will imagine a couch. But if I say the object is for sitting next to other people, each person will have different associations.
+Concrete writing is not only for describing physical objects and experiences but also for digital purposes. Using references that people are already familiar with helps make things tangible in their minds. For example, Dropbox used people’s concrete familiarity with a computer folder not only to tell their story but to build an entire product based on it. They didn’t build a cross-computer real-time cloud-synchronization solution. They built a way to have the same folder appear on two computers. Drop files in the folder on one computer; it appears in the other.
+You should also present numbers, dates, and distances in concrete form. Saying that a physical location will be near a major metro area or that data processing is fast won’t be as useful as saying that a physical location will be less than fifteen miles from a major metro area or that data processing takes less than sixty minutes for 99 percent of requests.
+Bad:
+A disruptive and revolutionary medical innovation that will change the landscape of primary and urgent care.
+Good:
+THE PRFAQ FRAMEWORK | 75
+A mobile store of medical diagnostic tests for consumers to use directly from their phones.
+Key Takeaways
+Precise writing is about simplifying your text until you can’t remove anything else. It makes the document accessible by cutting complexity, jargon, and expressions that can be confusing. It also provides concrete data and information in unambiguous ways.
+
+THE PRESS RELEASE
+Press releases have been around for more than a century. They were invented to communicate corporate information to the world, primarily to the press. The very first press release in 1906 was about a train wreck. A public relations consultant working for the train company wrote it. The practice took off because it worked. Over the last century, corporations, non-profits, government, and celebrities have used them to make announcements such as corporate mergers, incidents, innovation breakthroughs, funding, and the topic of this book—launching products, services, or programs. In this chapter, we’ll discuss how a PRFAQ press release is constructed and how it’s different from a traditional press release.
+Until the mid-2000s, a press release was the preferred mechanism to announce a product. You’d work with a public relations or marketing agency, craft a press release, and do three things with it. You’d publish it on your website, push it via a newswire service, and send it via email directly to journalists who covered your industry. To these journalists, you’d offer an interview with the CEO or other person at the company, so they’d get insights and exclusive quotes for their story.
+In the high-tech world, it worked well until around 2005, when two trends took the air from press releases. First, there was a proliferation of blogs, some with audiences more relevant to the tech industry than the big publications. Second, the pace of innovation increased so much
+7
+78 | The PresRESS Release
+that journalists and bloggers got overwhelmed with press releases. To distinguish their article, they couldn’t just regurgitate what was in the press release. They needed unique content. They preferred a direct conversation with an executive or leader, even if via email.
+The press release hasn’t gone away. The newswire services are still alive. These are organizations that work on both sides of the press release marketplace. On one side, organizations publish their press release (a paid service); on the other, journalists watch for news from certain companies, industries, or keywords. Corporations, non-profits, governments, and even celebrities still issue hundreds of press releases every day.
+Why a Press Release?
+Regardless of whether you’ll ever publish a press release on your website or send it via newswire or to journalists, a press release is a document designed for announcements in narrative form. Over time, the world adopted a de facto standard to make it easier to create and consume press releases. These press releases include contact information, a boilerplate about the company, the date journalists can publish, where and when it is being sent, and elements related to the news itself, such as the headline, the sub-headline, and the body. Even the body has a specific structure and writing style. If you are familiar with them, you can read dozens of PRs daily and efficiently gather the necessary information. The PR form also prevents writers from forgetting to include something important. That’s the value of having a consistent template.
+In a PRFAQ, you are not writing a press release to see it published. It’s for internal use only. The PR in a PRFAQ has a future date when you realistically expect to announce your product. You write a press release as if you are on that day. You are painting a vision of this project. This is a powerful mechanism to make sure your (extended) team feels comfortable with the vision and is excited about it. It’s essential for the people involved in the project, including backers (investors or executives), people working on the project, and even your customers and stakeholders, to align on the promise.
+THE PRFAQ FRAMEWORK | 79
+The press release is one of the most effective mechanisms for achieving that goal. We’ll discuss alternatives to a press release at the end of this chapter.
+The Press Release Structure
+We have adapted the structure for the press release in a PRFAQ from the general press release format. It’s refined to constrain your movement to a few axes that really matter in this context. Other portions of a standard press release are not relevant, so we dropped them. Here’s the core structure:
+1.
+Location
+2.
+Date
+3.
+Headline
+4.
+Sub-headline
+5.
+Lead paragraph (Intro)
+6.
+Problem paragraph
+7.
+Solution paragraph
+8.
+Internal quote paragraph
+9.
+How it works paragraph
+10.
+Customer quote paragraph
+11.
+How to get started paragraph
+You don’t deviate from these elements. If you do, you are not writing a PRFAQ. People who are familiar with a PRFAQ will notice if you change things. Instead of focusing on the project’s merits, they’ll spend their energy trying to understand why you changed the standard.
+For the rest of this chapter, you might consider flipping between the information presented here and the examples in the Prologue and
+80 | The PresRESS Release
+the Bonus Part of the book, so you have a concrete example of a press release for a PRFAQ.
+Location & Date
+It feels like such a minor thing to pick a location and date for your press release, but it’s not. Often, products have location-specific targets. If you are announcing a new product targeting tax compliance in Brazil, you are better off picking your location as “São Paulo” than “New York,” even though your headquarters might be in New York. This detail primes the reviewers and puts them in the right frame as they read the rest of the document. It reinforces to your team that when you launch this product, there needs to be a system in place to support that region. That’s going to guide your engineering team in making sure they have a cloud computing region set up there. Your marketing team will prepare campaigns and outreach in Portuguese. It’ll guide your customer success and support teams to prepare for inquiries from Brazilian customers. You are setting the tone of the launch as close as possible to reality.
+The date is critical. You and your team are committing to that date. This is very controversial in the tech world because people don’t like deadline-driven software projects. You have probably heard of the project management Iron Triangle: cost, scope, and schedule. The rule of this triangle is that you only control for two out of these three aspects in a project. If you want to deliver a project on a specific date and with a specific scope (feature set and quality), your cost (resources to execute it) will be fixed, and possibly high. Makers (designers, software engineers, writers, data scientists, product managers, etc.) are not big fans of deadlines. These are associated with stressful work-life balance, late nights, bad trade-offs, technical debt, and other things they would rather not have. They are not wrong; those things happen in deadline-driven projects.
+I’ve been lucky in my career to work on projects of all shapes and sizes. Somewhere around my second startup, I realized a powerful motivator to deliver a project is a date-driven approach. It doesn’t matter if you are working alone in your office, with a friend, or with
+THE PRFAQ FRAMEWORK | 81
+a team of one hundred people. Setting a deadline puts things into perspective, particularly around the scope of what’s possible.
+In the context of the Learn-Build-Measure loop, you can only start measuring after you put something out there. You might feel different because you believe you know exactly what you need to build and what the customer wants. That’s betting on hope, and not on a scientific approach to problem and solution discovery. Iterating fast compounds what you learn when launching new projects. If you are building a submarine, a bridge, or a new medical device, you don’t have the freedom other types of projects have. Those types of projects are the exception. For all other projects, you have no excuse for not shipping fast, incrementally, and iterating on the solution.
+That’s the long way of saying that picking a date that’s feasible and yet a little uncomfortable for you and the team is a great motivator and a validator. Setting a hypothetical launch date and seeing how people around you react to it will give you and others in the team a sense of what it takes to meet that deadline. Do you need to cut down the scope? Do you need more resources? Do you have to start negotiating access to critical data or vendors’ contracts? Is it even possible to set up the operations in that location by that deadline? You would rather not impose an unrealistic date but don’t want a committee-driven decision. This isn’t a project management exercise where you create a Gantt chart to build the confidence that the date is perfect.
+Former US President Dwight D. Eisenhower famously said, “Plans are useless, but planning is indispensable.” His quote relates to war planning. I have used that quote countless times over the last decades when rallying my team around annual or quarterly planning. Everyone wants to have great plans, but what matters is the output and the outcomes, not the plan. It’s better to have an “incomplete” plan with a great outcome than a “brilliant” plan with a poor outcome. Ironically, the cost of good planning takes resources and time away from execution and iteration. In some cases, it leads to analysis paralysis. I’ll repeat this throughout this book: PRFAQs are not plans; they are strategic decision-making tools. You only put the necessary investment into a PRFAQ to get the conviction to keep moving in a certain direction; no more, but no less.
+82 | The PresRESS Release
+Headline and Sub-headline
+People get paralyzed searching for the perfect headline for their press release. Rip the Band-Aid. Write a quick and simple version of it, even if it’s not what you’d consider ideal. Move on to write the rest of the PRFAQ, then come back to edit the headline and the sub-headline. There is no penalty to rewrite it a dozen times until you find something that resonates with you and your audience. The more time you spend crafting and fine-tuning your headline, the more you’ll close your mind to feedback. You want to listen to how people reflect your ideas back to you, and you’ll find they have a way of simplifying your story to its core.
+Headlines matter because they are the opening act that primes the audience for what’s coming. Professional chefs say that you first eat with your eyes, then with your nose, and finally with your mouth. The headline is the “eating with your eyes” part. If it’s unappealing, even great content will suffer. I have a test for an unappealing headline. It’s called the Huh test. If people read your headline and go, “Huh?!” you need to go back and rewrite it. The response you want from people is “How?” or “Tell me more!” or “I’m intrigued!” Headlines that are too clever, use jargon, or require too much domain knowledge get stuck in huh-land. Picture a journalist who is not familiar with your company or industry. Would they find it confusing or intriguing? It’s better to have a plain headline and deliver a good document than to have a headline that tries too hard and gets people confused about the content of the PRFAQ.
+For your headline and sub-headline, avoid words like “revolutionize,” “disrupt,” “turn on its head,” “amazing,” “patent-pending,” “proprietary,” or anything that feels like every other buzz-filled announcement. Aim for practical and curious.
+Here are four headlines that I’d call weak (unappealing). As a reminder, the square brackets around words, sentences, or numbers indicate you are seeking feedback or data or need more research.
+1.
+Green Light launches a game-changing product for corporations.
+THE PRFAQ FRAMEWORK | 83
+2.
+Hebe disrupts parents’ concerns and closes a $7M round of finance.
+3.
+The new Rising changes the social fabric of cities.
+4.
+[Eventin] announces a platform for self-expression of underrepresented artists in mainstream social media apps.
+In the headline, the “what” (or the benefits) tends to be more powerful than the “why,” the “who,” or even the problem. These can be elaborated in the sub-headline or the body of the press release. Here are those headlines written in a more appealing way:
+1.
+Green Light brings autonomy, efficiency, and audibility to corporate approval processes.
+2.
+Hebe Launches the Most Comprehensive Smartphone Medical Diagnostics Tools for Parents.
+3.
+Rising opens a modern social space in [Kirkland] for people to meet, connect, and relax.
+4.
+[Eventin] announces a service for creators to publish videos on multiple services at once.
+These headlines are not flashy. They are practical and go directly to the point. They set the tone for what to expect in the rest of the PRFAQ. They prime the reader.
+The sub-headline provides some added context to expand on the headline. Here are the examples that expand on the fictional press releases above:
+1.
+Employees can create and use approval flows for travel, expenses, hiring, data access, and much more.
+2.
+It provides more than one hundred different tests parents can do at home to put their minds at ease.
+3.
+New space includes restaurants, coffee shop, event space, gym, and a drop-in daycare.
+84 | The PresRESS Release
+4.
+The service uses AI to automatically edit, reformat, and create versions for YouTube, Spotify, Instagram, TikTok, and more.
+This format also works for internal projects. Some examples: (1) You are a tech leader considering a new cloud deployment project. (2) You are a VP of HR driving a project to launch a chatbot for employees to ask about company policies. (3) You are a director of IT considering a project for a laptop refresh program. These can be converted into good headlines and sub-headlines to advance the story. It will feel odd at the beginning to use a press release for an internal project, but you and your team will get used to it and find it valuable. You’ll use the same pattern for an internal project as for an external one. Remember, you won’t send the press release to the press or publish it publicly.
+Here are the headlines and sub-headlines for some fictional internal projects:
+1.
+CoreTech team launches a faster and easier way to deploy software.
+The new service allows the automation of testing and rollback on demand.
+2.
+People Ops org launches AskHR to help employees find answers for their situation.
+AskHR uses information about employees and their cases to get fast and exact answers without having to email or call.
+3.
+Global IT refreshes the hardware replacement program and launches MyWorkspace portal.
+The new portal makes it convenient to select a laptop and other accessories when employees are eligible.
+4.
+Announcing [Sail], a cloud-based Customer Management System for Amoroso
+It replaces the Acropolis system and provides an extensible system for engineers to build and release features faster.
+THE PRFAQ FRAMEWORK | 85
+The Body
+The body of the PR has seven paragraphs. Not six, not eight, seven! It’s important to remember that the entire PR must fit on one page. The goal is not to create a comprehensive list of things but to awaken the interest of the people reading it, get them excited, and prime them through the customer point of view. The paragraphs are:
+1.
+Lead (Intro)
+2.
+Problem
+3.
+Solution
+4.
+Internal Quote
+5.
+How it works
+6.
+Customer Quote
+7.
+How to get started
+Except for the second paragraph, everything else is aspirational and hypothetical but believable. It must resonate with the reader as an achievable feat. It shouldn’t be so easy that others think you are undershooting or sandbagging it, and not so hard that it feels like a pipe dream or that you are boiling the ocean. Let’s break down each of these paragraphs.
+Lead Paragraph
+The lead (or “lede”) is the opening paragraph that succinctly answers core questions about what’s coming and captures the reader’s attention. We refer to this as the five Ws. The five Ws are who, what, where, when, and why. Your goal is to create an introduction that fits into three to six short sentences. That’s brief, and you shouldn’t elaborate too much. Think of the lead paragraph as the “this is what we are going to talk about” part.
+86 | The PresRESS Release
+Similarly to the headline, you’ll revisit and rewrite this one multiple times, so don’t get hung up on getting it perfect the first time. However, you must get close to excellent as you go through rounds of reviews. I consider it important to keep your intro paragraph clear and concise. It’s the opening scene, and you want to capture people’s attention. Think of it as the “first impression.” Once it’s set, it’s very hard to change it later. You want short (up to twenty-five words), well-constructed (active form) sentences that leave no room for misunderstanding. This paragraph should put the reader’s brain in a “safe” state by setting the tone for clarity, conciseness, and accessibility.
+Problem Paragraph
+You might think the solution is the critical paragraph, but it turns out the problem is more important. If you, your co-founder or peers, your employees or team, or your investors or executives don’t believe in the problem, that’s the end. The problem must stand out as a “real” problem (over being reverse engineered from a solution). The problem paragraph should communicate that enough customers have this problem and that the existing solutions are unsatisfactory.
+Another reason the problem needs to be crisp and believable is that you might end up with a very different solution from the one initially proposed. As you’ll see in Part III, a PRFAQ is a mechanism of discovery.
+I use the word problem liberally to mean the needs, pain points, or desires of the customer. It may also represent an opportunity identified to help the organization operate better.
+The secret to a well-written problem paragraph is empathy for the customer or the clarity of the impact of the current situation in the business. Customer-centric is one of the principles of a PRFAQ described in Chapter 1. You want to wear the customer’s hat and think about how this problem affects them and how important it is for them to deal with it. You don’t need to check all the boxes below, but a meaningful problem has a combination of the following:
+
+It affects many customers.
+THE PRFAQ FRAMEWORK | 87
+
+It’s nascent or growing.
+
+It’s urgent (or it feels urgent for the customer).
+
+It affects their ability to do their work, live their lives, or achieve their goals.
+
+It happens frequently.
+
+It’s painful, not a nuisance.
+
+It leads to other problems that need to be dealt with.
+
+It’s affecting customers without them realizing it.
+
+The existing solution is unsatisfactory (costly, slow, inefficient, hard to use, etc.)
+For example, tax fillings in the U S don’t happen often (once a year or once a quarter for businesses). They are not urgent and not growing, but they are painful and can lead to severe issues, and the existing solutions are not that great. If you pick one of the fictional examples for Green Light, Hebe, Rising, and Eventin above, you see how they will check different boxes. You want to ensure the reviewers know the two or three attributes of this problem that stand out. Present data to bring credibility to your statements, not hyperbolic statements.
+Solution Paragraph
+The solution paragraph is where you present how you are solving the problem you described in the previous paragraph. At times, PRFAQ writers confuse themselves and readers by describing a solution that does not directly address the problem statement. For example, if your problem statement is about in-vitro fertilization (IVF), a costly and cumbersome process, and you describe a mental health app for women, you missed the mark. Either you didn’t explain the problem well, or you had the wrong solution. It’s common for startup founders (and product leaders) to paint a problem picture that makes the market they are going after bigger than it is. The IVF market in the US is estimated at $5.7B in 202418, while the mental health market for women trying to have a baby is likely a fraction of it.
+88 | The PresRESS Release
+You want to keep your solution explanation short. Don’t list all the features the product will have—remember, you are writing in the present tense, even though none of it exists yet. Pick one or two of the key features that address the problem and describe them in terms of benefit for the customer.
+Like the problem paragraph, you want to empathize with your customers and see the world through their eyes. To use Tony Ulwick’s classic example from his book What Customers Want19 describing how to sell a drill: The product feature is the drill bit size, 1/4-inch, titanium-coated. The benefit is a perfect hole in the wall to install a shelf unit.
+Internal Quote Paragraph
+This is a fun paragraph to write. You are likely quoting yourself (if you are a founder) or quoting the CEO or another executive in your organization, giving some reason behind this project. What triggered it? What are you the most excited about? What unique event, breakthrough, or trend enabled this to happen now? There are a couple of formats that you can use:
+▪
+“(Quote),” said (you/leader), (title). She/he/they continued, “(quote).”
+▪
+(You/leader), who’s leading this project, said, “(quote).”
+How It Works Paragraph
+The “how it works” paragraph is not about the inner workings of the product or the technology but how it works from the customer’s perspective. Imagine a customer coming to you and asking, “Hey, how does it work?” The answer to that question will help inform what goes into this paragraph. This is the hardest paragraph to make clear and concise because we fall in love with our idea. Don’t take the “how it works” literally and describe every step in unboxing, creating an account, connecting services, downloading a file, etc. You want to skip the mechanical aspects of the product.
+THE PRFAQ FRAMEWORK | 89
+The goal is to show a path to value. Suppose the value you provide is an AI-based resume review service to increase the chances of candidates getting a job. In that case, you describe your service as such: “You upload your existing resume and provide links to your LinkedIn, blog, and other online activity. The service will ask you a series of questions, provide you with three versions of resumes, and suggest updates to your LinkedIn profile.” Notice what’s not there. You don’t talk about how they create an account; you don’t talk about the settings or preferences they select; you skip details about user experience.
+Customer Quote Paragraph
+You want to humanize this press release by quoting a “real” customer. It doesn’t have to be a quote from a real person—although it’s better if you take inspiration from a real customer. For example, you might find in your customer support database or surveys a few sentences that epitomize the struggle or need of the customer.
+You want this quote to stand for the problem and the solution as if the customer was already beta-testing your product and getting value from it. Here is a suggestion for this paragraph:
+“I was struggling with (problem),” said (customer name), (job title) at (company). She/he/they continued, “Once I discovered (your product), I was so happy. Now, I can (do what they couldn’t do before).”
+Or,
+“Before (product), we had to (cumbersome solution),” said (customer name), (job title) at (company). She/he/they continued, “Now, we can (your solution that makes them faster, better, cheaper, reliable, …).”
+You are basically using the customer’s words to describe an undesirable state that was transformed into a desirable state. Don’t overfit by having them sound like your marketing positioning statement. You want to sound natural and focus on one dimension of the product that’s making the customer satisfied with the solution and why it matters to them.
+90 | The PresRESS Release
+How to Get Started Paragraph
+This is your call-to-action paragraph. If people wish to get your product, where do they go, what do they need, and how much does it cost? If you are talking about a mobile app, you want to tell users to go to the App Store or Play Store and download it. If it’s a website, you want to provide the link. If people can buy it online or offline, you want to mention the retailers carrying the product. This also applies to products or programs for your employees and whether they can find that resource at a facility or through an Intranet link.
+This paragraph might also hint at a waiting list or beta launch if that’s what you are going for. This is relevant to the strategic conversations you’ll have with your team, so they know they need to build a pre-registration system for a staged roll-out.
+Not Included
+A traditional press release includes contact information and a boilerplate—a description of the company. In a PRFAQ, those sections don’t exist. They are not necessary because this is not to be sent to anyone who doesn’t know you directly. I discourage founders from telling people to forward this document without them knowing who’s receiving it. In a corporate environment, the same holds true. PRFAQs are for team or intra-org use cases and are not to be sent around without context. There is too much risk in creating a political storm or power play, which is one of the secrets to not getting anything done.
+Alternatives to Press Release
+There are other formats to use for the first page of your PRFAQ. I encourage you to stick to the press release format as it’s the tried-and-true formula. The constraints help you think more clearly about what’s important, and people will get used to it. On some occasions, the alternatives below can be as effective if you know when and how to use them.
+THE PRFAQ FRAMEWORK | 91
+The formats are:
+1.
+News Article + FAQ
+2.
+Blog Post + FAQ
+3.
+Email Message + FAQ
+4.
+Social Media Post + FAQ
+News Article + FAQ
+A news article is the closest one to the press release format. It’s effective at painting a picture of the future. The idea is to author a fictional article from a publication related to this project. For example, if you are launching a new consumer hardware, your article might be “published” on The Verge. If you are launching a new financial program, you pick Bloomberg. If you are launching a new product for vet clinics to manage and order supplies, you pick Veterinary Practice News. You get the gist.
+The tricky part of writing a news article is that there isn’t a structure that works across the board. You have a heading, a sub-heading, a date, a byline (the name of the journalist), and a body. The first three are like the press release and follow the same rules. The byline, which is not present on a PR, is the journalist from that publication who will most likely cover this news. For the body part, you’ll find variations across publications, authors, and even articles for the same author. Here lies the issue: Not only do you have to author the article, but you’ll also have to research how journalists structure articles in that publication and mimic it as closely as possible. It’s a lot of work, and if you don’t do it right, it won’t feel like it fits. People reading your “news article” will focus more on the deviation from their expectations than on the substance of the content.
+I’ve seen effective PRFAQs that use news articles instead of press releases. When you do it well, it delivers a terrific benefit to the story. If not, it’s a train wreck.
+92 | The PresRESS Release
+If I haven’t dissuaded you from writing a news article, here’s a structure for the body that you may use:
+1.
+Lead Paragraph: Answer the five Ws (Why, where, when, who, and what).
+2.
+What Paragraph: Expand on the product or program description and what it is.
+3.
+Internal Quote Paragraph: Quote from the leader/executive speaking about the before (problem) and the now (solution), focusing on the differentiation.
+4.
+Benefit Paragraph: What customers expect to gain and how it’s better than what they were doing before.
+5.
+Context Paragraph: Situate the announcement in the current state of the market (trends, competitors, etc.).
+6.
+Customer Quote Paragraph: An excited customer talking about how they are using or will use the product.
+7.
+Future Paragraph: Where is this expected to go in the following years?
+Blog Post + FAQ
+A blog post is more versatile and tangible than a press release—you have certainly seen hundreds of them from companies announcing their products and programs. They are also more personal and direct. Companies also have internal blogs to make announcements to their employees, which makes this type of format great for internal projects.
+There are significant differences in writing a blog post. The headline and the content are likely to be in the first person (“I” or “we”), while a press release or news article skews to the third person (“the company”). Organizations write in business casual language. They include jargon, inside jokes, and a style particular to the organization.
+THE PRFAQ FRAMEWORK | 93
+A blog post has a title, an optional subtitle, a date, and the body of the content. It’s not unusual for blog posts to have a four-paragraph format:
+1.
+Lead Paragraph
+2.
+Description Paragraph (What?)
+3.
+Benefit Paragraph (So what?)
+4.
+Conclusion Paragraph (Now what?)
+Blog posts are as short as three hundred words and as long as six hundred words. You have flexibility in what goes into each paragraph. If you have a company blog (external) or an internal blog (for employees) in mind, consider the formatting and style they use. In your company, they may have “categories” labels or other particularities. Include them. The point is to feel you lifted a real post from the blog, even though it’s a vision at this point.
+You write the description paragraph focusing on what the product does and the benefit paragraph explaining why customers care about this product and how it helps them solve a problem faster, cheaper, or for the first time. Finally, in your conclusion paragraph, you have a call to action on how to learn more or get started and speak about what’s coming down the line for this product or program.
+Email Messages + FAQ
+Email messages share more in common with a blog post than a press release or news article. You use a similar structure for the body of the content as the blog post. You create an email to send to your customers, which are external or internal (employees, volunteers, or specific teams).
+There are unique elements that you need to consider. Those include the To, From, and Subject lines. The purpose of the subject line on an email message is to get people curious enough to open it. You want to mimic that experience and create an interesting subject line. Saying
+94 | The PresRESS Release
+“announcement,” “big news,” or “important message” will not cut it. Limit your subject line to ten words.
+Here’s an example of how this comes together.
+From: Alicia Brunner <Alicia@hebe.com>
+To: (customers on the waiting list)
+Subject: Hebe is now available to help diagnose your child’s medical conditions.
+Date: June 26th, 2026
+Body:
+(lead paragraph with call to action)
+(description paragraph)
+(benefit paragraph)
+(conclusion paragraph with call to action)
+As a reminder, this is not an actual email you will send customers, but it must feel like one. You want to look as close as possible to the real thing and follow email message best practices to bring credibility to the story.
+Social Media Post + FAQ
+It might make sense in your case to consider “announcing” this product or program on social media. It could be on LinkedIn, Instagram, TikTok, YouTube, Facebook, X (Twitter), or even Reddit. You can get creative and paste a mock screenshot of the post (obviously, it wouldn’t work for video platforms). However, this feels like an excessive amount of effort, and it won’t naturally set the tone for the rest of the document. The press release format covers the problem,
+THE PRFAQ FRAMEWORK | 95
+the customer, the solution, how it works, how to get started, and more. You can’t cram that into a short social media post.
+Key Takeaways
+The press release in a PRFAQ follows a very specific structure for each paragraph and the elements that are included in it. The body of the press release has seven paragraphs: (1) The Lead, (2) Problem, (3) Solution, (4) Internal Quote, (5) How It Works, (6) Customer Quote, and (7) How to Get Started. There are alternatives to the press release format, including News Article, Blog Post, Email Message, and Social Media Post.
+
+THE CUSTOMER FAQS
+After the press release, the next section on your PRFAQ is the Customer Frequently Asked Questions. This is where you (again) put on the customer hat and imagine they read the PR and have a few top-of-mind questions. This section is double-fictional (on top of being hypothetical). It’s fictional because your customers won’t read this. None of it exists, and you are just illustrating a few key points of the solution. The second fictional part is that you are writing this to make strategic decisions, not necessarily to answer a customer’s most pressing questions. If a customer “question” in this section doesn’t serve the needs of the reviewers, it’s not adding value to the document.
+You should have the customer FAQs section if your customer is external, such as consumers or other organizations. If your project is for internal use, it is still advisable to include it, but it is not necessary since everything can be covered in the internal FAQs section discussed in the next chapter. The customer FAQ is on the second page, after the PR, and it’s only a single page. That means you select five to eight questions that best fit the conversation.
+In this chapter, we’ll cover how to structure and format your questions and the customer FAQ for you to consider including.
+8
+98 | The CustomerUSTOMER FAQs
+The FAQs Sections
+You want to write your FAQ sections using the question as the heading and the answer as the paragraph. Number the questions for easy referencing. Here’s how a typical FAQ will appear.
+Q3: How much does it cost?
+We offer a seven-day trial with the same features as the basic plan. The basic plan costs $30 per month and allows you to create ten meal plans per month, while the premium plan costs $50 per month. The premium plan includes our smart scale, which allows for unlimited meal plans and up to five users in the same household.
+The same guidance about precise writing applies to FAQs. You choose each question (and answer) because of their implication for the team(s) and parts of the organization that will be involved in making this happen. People in distinct roles will look at each of these questions from different angles. The power of the FAQ section stems from its ability to cover a large area of concern and surface essential conversations towards the project’s success.
+As an example, let’s look at three roles: a UX designer, a marketing manager, and an analyst in finance. When a UX designer reads the FAQ above, they might ask questions about accounts, profile creation, and data privacy. The marketing manager might discuss if these are the right plans and prices compared to alternative solutions. Finally, the analyst might ask questions about the business model, adoption model, and viability. That’s what you are looking for! We’ll discuss more about how to use your PRFAQ and get feedback in Chapter 15.
+The Customer Angle
+Let’s generalize what the customer cares about before buying, subscribing, enrolling, or using a product, a program, or a service. These elements apply to your project and need to be adjusted accordingly.
+The tricky part of selecting your customer FAQs is that you want to include only clarifying questions or topics of discussion for
+THE PRFAQ FRAMEWORK | 99
+your reviewers. For example, customers are interested in an FAQ on integrating their fitness tracker to sync its data with the service. However, from a strategic conversation perspective—as long as it has been proven this is possible—that’s not a valuable question because there is no contentious point or impact on the discussion. A more valuable question would be which fitness trackers are available at launch time.
+Here’s a list of themes for the customer FAQ:
+1.
+Value
+2.
+Usability
+3.
+Plans and Pricing
+4.
+Privacy
+5.
+Migration (or change management)
+6.
+Risk
+7.
+Compatibility & Integrations
+Other factors that the customer will think about include quality, durability, brand reputation, flexibility to cancel or upgrade later, if their friends or coworkers are already using it, and even the likelihood that this product or program will be around in the years to come.
+Value
+This is where you want to use the Jobs-to-Be-Done (JTBD) framework to imagine what jobs your customer is “hiring” your product to do. You must go deeper than the functional aspect that your product provides. For example, if you have a new AI-enabled text editor, the job your customer is hiring your product to do is not “to write the text.” It’s closer to “write a resume.” And if you ask the “why” one more time, they will say, “to get an interview at (company).” That’s a better definition of the job. Then, you look at that list of JTBD and
+100 | The CustomerUSTOMER FAQs
+ask yourself: What questions will they have before committing to this product or program?
+FAQs to consider:
+▪
+Can I (expected benefit)?
+▪
+How do I (not relevant to this product, but relevant in other solutions)?
+▪
+Who can use the product or program? (Availability, eligibility, etc.)
+Usability
+You’ll likely have at least one FAQ about usability because it speaks both to the customer and the team building the project. You start from a big-picture perspective by discussing whether the product will be available on the Web, mobile, TV, stores, etc. Usability also speaks to the key steps to get value. Do users need to go to an office for a notarized wet signature, or does your product drop that requirement? A question like that will be top of mind for users, and it’s also relevant to the team building it, even for your marketing and legal team.
+FAQs to consider:
+▪
+How do I use the product? (This question should have been answered in the PR part, but if it needs elaboration, you can add it here.)
+▪
+What do I need to learn?
+▪
+Do I need to verify my identity or business entity?
+Plan & Pricing
+Pricing is what your customers will have to pay you and what plan/package/version they get in exchange, like the example at the beginning of this chapter. Some products include an initial price and a subscription, add-ons, or consumables. If special rates or discounts
+THE PRFAQ FRAMEWORK | 101
+are offered, they should be listed as well. It could be that this product is being bundled with another offering or vice versa. That’s relevant.
+Cost for the customer is also important. The cost might include other items not directly provided by your company. If you are selling a backup generator for homes that use hydrogen instead of diesel, it’s relevant to the conversation to know how it compares and how much it costs to run. For many enterprise products, there might be other operational expenses like training, updates to existing systems, migration, consulting, premier customer support, or even dedicated personnel.
+FAQs to consider:
+▪
+How much does it cost?
+▪
+Can I cancel it or return it at any time?
+▪
+Is there a referral or affiliate program?
+▪
+Are there other costs?
+▪
+Is there a discount for (students/startups/non-profits)?
+Privacy
+Privacy is broad and not applicable to all products. You might have FAQs discussing who sees the content, what the sharing and collaboration mechanisms are, how users delete the content, or what the retention policy is. The other privacy concerns are around regulation such as GDPR, HIPAA, data export, CCPA, SOC, ISO, etc. You don’t need the tactical details of how things will work. If you believe a key feature or aspect of this project will cause problems with regulation, you want to include an FAQ that explains (briefly) what data is collected, where it’s stored, how it’s used, for how long, who has access to it, if it can be sold, etc. Remember, you are not sharing this document publicly, and everyone who has access to it must consider it an internal-only and confidential document.
+FAQs to consider:
+▪
+Is my content private? Encrypted?
+102 | The CustomerUSTOMER FAQs
+▪
+Who can see my (likes/favorites/bookmarks)?
+▪
+Can I collaborate with others?
+▪
+Can I control who can access it?
+▪
+Where will the product store my data?
+▪
+How will the product use my data?
+▪
+Will my data be used to train your AI?
+▪
+Are you HIPAA-compliant?
+Migration
+Migration is about getting data in and out. For many products to be useful, there is an initial effort from the customer. Maybe your product requires folks to upload pictures, documents, or job history information. In an enterprise setting, it will mean migrating data from one vendor to another or from an in-house service. These migrations can be costly for customers and prevent a trial or pilot period. Customers also care about vendor lock-in. If they pick your product, are they stuck with it? Is this a one-way decision? If your customer is an organization, you can also talk about change management.
+Another element of migration is integration, file export/import, or APIs. If they integrate your product with an existing vendor or in-house solution or procedure, does it offer file exports, batch exports, APIs, etc.?
+FAQs to consider:
+▪
+How do I move my information from my existing product?
+▪
+Is there downtime during migration that prevents me from accessing my data?
+▪
+Can I export my data?
+▪
+Do you offer APIs?
+▪
+Does it support (standard protocol or format)?
+THE PRFAQ FRAMEWORK | 103
+▪
+Can I cancel/leave the (product/program/service) at any time?
+Risk
+Before using your product or joining your program, customers will evaluate the potential downside. Privacy is one element, but so are compliance, safety, security, reliability, and how much their core business operations will depend on your service quality, availability, and performance. The people whose jobs it will disrupt will also consider the impact on their careers.
+FAQs to consider:
+▪
+What types of backups or redundancy are available?
+▪
+Are you FDIC-insured?
+▪
+Who’s liable if an incident happens?
+▪
+What happens if you go out of business?
+▪
+What happens if I leave the company? (for an employee-oriented product or program)
+▪
+What’s the Service Level Agreement (SLA)?
+Compatibility & Integration
+Questions about compatibility and integration can be crucial in your project. The customer needs to know if your product works with what they already have and if it can achieve the value they aim for. This applies to physical or digital products, services, or even programs. It’s important for the internal team to discuss and determine if they need to buy additional services, build integrations by themselves, or know if the product, service, or program doesn’t work with something the customer already has in place.
+FAQs to consider:
+▪
+Does this product work on my (device, browser, OS, kitchen, country)?
+104 | The CustomerUSTOMER FAQs
+▪
+Does it work with (plug-in, add-on, service, hardware, etc.)?
+▪
+Are there consumables/supplies that I need to buy separately?
+Key Takeaways
+Your PRFAQ will have between five to eight customer FAQs. These FAQs are selected based on what a hypothetical customer would ask after they read the press release. However, these are not the most important questions the customer would like answered; these are the questions that are the most valuable to have a strategic conversation about the project.
+THE INTERNAL FAQS
+The PRFAQ is an internal document. Everyone must treat it with the same level of confidentiality as a business plan, a balance sheet, or a PRD. Everyone collaborating on a PRFAQ assumes this document will only be shared with the reviewers and decision-makers. In Chapter 14, we talk about creating different versions of your PRFAQ to address the needs of each audience and maintain the right level of confidentiality.
+The customer FAQs and the internal FAQs are both internal! The difference is that we write the customer FAQs as if the customer is asking and the internal FAQs as if someone on the team is asking. Another difference is that the customer FAQs represent a desirable future state, but we write them in the present tense. It’s aspirational. The internal FAQs are in the present, helping us make decisions about this project. The internal FAQs must be based on concrete information. If it’s based on assumptions or hypotheses, it needs to be called out as such.
+The internal FAQs section is the bulk of your document, and will have the most direct and valuable insights on this project. It’s wrong to assume that because it’s an “FAQ,” it’s supplemental information. The press release and the customer FAQs are just to set the stage. The internal FAQs are the main show.
+This section has between two and four pages. The sweet spot will be between twelve and eighteen FAQs. If you find yourself with too few
+9
+106 | The I nternal FAQs
+questions, you have not empathized enough with your collaborators to understand what they’ll care about. As you see in Chapter 14, as you have review sessions, you’ll be able to discover key questions to add. Another effective way to generate more questions is to review the early draft of the document with a trusted peer and see what questions they are asking.
+If you find yourself with too many questions, you might have gone too tactical, detailed, or verbose. A PRFAQ is not an execution blueprint. It’s a document to describe the strategy of a project, set an inspiring vision, and get everyone moving in the same direction. Leave the details for other documents or move them to the appendix.
+The internal FAQs are for answering the hardest questions. It’s not to paint a rosy picture like you did in the press release. Play the devil’s advocate here. The public relations industry even has a name for this approach: Rude Q&A. These are tough questions that are challenging to answer and even confrontational. A communication team prepares Rude Q&As for executives and leaders before they interview with a journalist to help them be better equipped to answer them. This same exercise is an excellent way to think about which questions to include on your internal FAQs.
+For any product, business, or program, exactly four elements need to be addressed for the idea to be believable—and for the project to be successful.
+1.
+Value
+2.
+Feasibility
+3.
+Usability
+4.
+Viability
+Marty Cagan, the author of the book Inspired20 and the founder of the Silicon Valley Product Group, identified these as the four risks that need to be handled for a successful product. These four elements ensure that the project: (1) delivers real value to the customer (value), (2) has a technically and operationally workable solution (feasible),
+THE PRFAQ FRAMEWORK | 107
+(3) is easy to use and understand (usable), and (4) delivers sustainable business goals (viable).
+The questions you add to the internal FAQs will fall into one or more of these four categories.
+Value
+The value questions are a natural flow from the press release and the customer FAQs. From my experience, these are the critical questions in your document. If your collaborators and decision-makers don’t believe there is value for the customers, everything else is moot. Not only that, but they also need to believe the customer exists and there are enough of them. You are answering who the customer is, what you are doing for them, and why they need it.
+There are several categories of customers, and your PRFAQ will have a primary one: organizations, consumers, or internal. These are often referred to as B2B (business-to-business), B2C (business-to-consumer), DTC (direct-to-consumer), and B2E (business-to-employee). Marketplaces have two or more primary categories, and they are referred to as B2B2C (marketplace of businesses selling to consumers), B2B2B (marketplace of business selling to businesses), or B2C2C (marketplace of consumers selling to consumers). There are more combinations, but it’s not relevant to elaborate on all of them. The types of FAQs that you include, will be directly related to the type of customer you are targeting.
+Building a product, program, or service for businesses has four consequences for your customer. We briefly introduced the four core outcomes in Chapter 4. Knowing their primary reason for adopting your product, program, or service determines the questions you need to answer about the value you are creating for them. Your product, program, or service falls into one of the following buckets of benefits for your customer:
+1.
+Increase revenue.
+2.
+Protect revenue.
+108 | The I nternal FAQs
+3.
+Decrease expenses.
+4.
+Avoid (future) expenses.
+Figure 9.1 The core benefits that businesses seek.
+If you are selling to consumers, well, that’s a mystical world. Consumers decide in seemingly unpredictable or irrational ways. Over the last few decades, we have learned a lot about consumer decision making, but we haven’t cracked the full code yet. Even if you are a product savant, you couldn’t unpack the full breadth of motivations behind people’s decisions.
+Consumers perceive benefits by one or more of the following criteria:
+1.
+Increase income.
+2.
+Decrease expenses.
+3.
+Gain status.
+4.
+Reduce risk or pain.
+5.
+Seek pleasure.
+THE PRFAQ FRAMEWORK | 109
+6.
+Save time.
+7.
+Connect with others.
+With internal customers, like employees or internal teams, the value they seek is about their efficiency, cost-cutting, job upside (promotion, salary, role, etc.), mandatory changes (e.g., regulations), or downside protection.
+Finally, governments and non-profit organizations also have key metrics they want to achieve. Besides what I mentioned above, two metrics often used are participation and awareness. Many government programs or non-profits measure their success based on how many people enroll in a program or become aware of a cause.
+These are FAQs that speak to the value for the customer:
+1.
+What’s the vision behind this project?
+2.
+What problem are you solving for the customer?
+3.
+How are customers solving this problem today?
+4.
+What’s the solution being proposed?
+5.
+What research or validation steps of the problem or solution have been done?
+6.
+How often do we expect customers to use it?
+7.
+Will customers need other products to get the benefit they expect?
+8.
+What consumer behavior shift or trend are you taking advantage of?
+9.
+What’s the biggest barrier for consumers to use/enroll/participate in it?
+110 | The I nternal FAQs
+Feasibility
+In colloquial language, the word “feasibility” has a broader meaning than in the business and tech world. In business and tech, feasibility refers to whether something can be done in a certain amount of time and resources. You can’t always know whether something is feasible. Every so often, an idea requires a proof-of-concept to determine whether it’s possible.
+Ideas around AI, hardware, life sciences, materials, space, clean energy, and other fields require research and exploration to prove technical feasibility. Less scientific projects might also require a proof-of-concept to make sure the API works as described, the system can handle the volume of data, or the file format follows a standard. If you are proposing an idea for something that might fall into those areas, and you haven’t yet proven whether it will work, you need to change your project into a research project. If you have proven that it can work, or there is a general acceptance among experts that it can work, then you move on to the other aspects of feasibility.
+One area that might trip you up on your project is assuming something is technically feasible because it sounds easy or obvious, but you haven’t built a proof-of-concept yet. An example is to assume that you’ll integrate with a third-party service through their API to access a specific data set, which is a key part of the solution. You assume it’s possible because you’ve seen other products that (seem to) do that. Verify it! The API might not have the data or format you need, the data might not be reliable, or the latency or performance might not work for you. Ask someone who has done it or who will have a better intuition. As part of the review sessions, this information should surface if you include the right people.
+Another area that people miss is legal feasibility. At the simplest level, legal feasibility asks, “Is it lawful to do what you are doing?” Nowadays, there is more scrutiny of how companies get and use data, and it changes from country to country or from state to state. In finance, health, telecommunications, defense, energy, transportation, human capital, and several other industries, specific laws and regulations dictate what can and cannot be done.
+THE PRFAQ FRAMEWORK | 111
+Feasibility also refers to how long it takes to do something—effectively, how much it costs to do it. I have worked with many non-tech people who came from a business background or were domain experts in their field, but not well-versed in software products. Occasionally, they asked me if it was possible to build a software that did X, Y, or Z. My answer nearly every time was a resounding yes! Give me enough money and enough time, and we’ll do it. If your product or program has constraints in the deadline (e.g., it must be ready before the beginning of the school year), or if your backers or stakeholders have a limit on how long they will wait and how much they will invest to see results, consider if the project is feasible within those constraints.
+The last aspect of feasibility that’s talked about the least, but it is certainly on your decision-maker’s mind: Is this the right team to do this? Do the people you are talking to believe that you and your team can deliver it? If the team doesn’t have the necessary skill sets, the question becomes if you can find and recruit the right people. They must trust you will hire, onboard new team members, and deliver the project on the expected date.
+Most startups don’t get funded, and most projects within big companies don’t get the green light because the decision-makers don’t believe that this person or the team can get it done. This is difficult to accept. Investors would rather not tell founders they don’t believe they can pull it off. Founders may be angry, argumentative, or become vengeful. So, no one talks about it, and they find an excuse to dismiss this project (“I want to see more traction”).
+There are FAQs that you write to help people understand and feel comfortable with the feasibility of your idea. As with the customer FAQs, select the ones that are valuable and relevant to eliminate barriers and clarify what’s in and what’s out.
+1.
+What has the team done so far?
+2.
+What are the technical risks?
+3.
+What are the technology shifts/trends that enable this to be built now?
+112 | The I nternal FAQs
+4.
+Does this project require regulatory approval or certification? How long does it take?
+5.
+Are there regulations that apply to this project that we need to be cautious of?
+6.
+Are there dependencies on third parties? If so, are they ready, or do they also need to launch their product? Have you validated that their solution works?
+7.
+What assets, intellectual property, or data do we need to license or acquire?
+8.
+Do we have to build a proof-of-concept before building the final product?
+9.
+How many people do we need to build and operate it?
+10.
+Who’s on the team, and what are their skills and expertise?
+11.
+How did the founders meet?
+12.
+When will we launch, and what are the key deadlines or milestones?
+Usability
+We typically refer to usability as it relates to what we see or “touch.” Usability is broader than that. Usability means the ability of a user to get a task done to achieve their objectives. Any friction, complexity, or upfront “investment” required before users get value affects the usability of a solution.
+Friction in usability refers to the effort someone needs to put in to sign up, get your product, or enroll in your program. It also includes the effort they need to put into using it. You want to minimize it or be deliberate in your decisions to add friction—yes, there are good reasons to add friction. You know you have too much friction when people dread using your product, but they are forced to. Or they
+THE PRFAQ FRAMEWORK | 113
+simply abandon it if they have a choice, even though they are getting value from it.
+Usability also relates to the complexity of your product or program. Do people have to learn or get training before jumping right in, or is it plug-and-play? Some products have a natural steep learning curve. You can’t expect someone to install a coding tool and create applications without learning how to code first. Even products like Excel have a learning curve before you start building a personal budget model. In contrast, you can install an app for a personal budget, and it requires no learning curve when it is well-designed and built.
+Finally, the upfront investment that affects usability occurs when customers need to integrate services, import data, request friends or coworkers to sign up, enroll, or buy the product as well, etc. The more people need to invest early on to enjoy or be productive in your product, the less usable it is.
+As you discuss usability on your PRFAQ, you want to be careful because it’s too easy for the conversation with your team to derail around personal preferences and opinions. Your goal with FAQs around usability is to answer the critical concerns of the team about delivering value to the customer in a feasible way. Leave decisions that are not immediate roadblocks for later.
+Internal FAQs that touch on usability include:
+1.
+What type of UX research or user testing has been done so far?
+2.
+How does the usability compare to the current solution?
+3.
+How much training (or learning) do customers need before using the product?
+4.
+Does the product need to be localized?
+5.
+What data do customers need to upload for the product to work?
+114 | The I nternal FAQs
+Viability
+Viability differs from feasibility, even though you hear people using it interchangeably. Feasibility is about whether we can do something; viability is whether we should do it. In other words, does it make sense for the business? It’s feasible to build a vending machine in which you put a dollar, and it gives you a $100 bill back. It’s feasible to build a high-speed train connecting Seattle to San Diego. Are these things viable? With the vending machine, clearly not; with the high-speed train, unlikely.
+Viability is not about the raw cost of a project. Even expensive endeavors can be viable. Viability is about the sustainability of this project within your organization. In the same way customers evaluate the value of your product, program, or service, you and your team will evaluate the primary goal of this project and the ROI for the organization. Viability relates to the four core possible outcomes discussed in Chapter 4: increase revenue, protect revenue, decrease expenses, or avoid (future) expenses.
+These are viabilities related FAQs:
+1.
+What’s the business model?
+2.
+How much does it cost to manufacture, and what’s the margin for the product?
+3.
+How much does it cost to launch and operate this program?
+4.
+How are customers going to find the product/program?
+5.
+What’s the go-to-market strategy?
+6.
+What’s the expected retention rate?
+7.
+What will be the costliest factor in operating this product or program?
+8.
+What are the crawl, walk, and run milestones?
+9.
+How are we measuring success?
+THE PRFAQ FRAMEWORK | 115
+10.
+How many people will we need to launch and run this product or program?
+11.
+How much will we save, and how long will it take?
+12.
+What could happen if we don’t do this now?
+13.
+Will the product have a network effect on adoption or use?
+14.
+How are customers going to learn about this product or program?
+15.
+What distribution partnerships will be needed?
+16.
+How long is the sales cycle?
+17.
+What will be the top reasons customers will find adopting this solution risky?
+18.
+What are the market trends that you are taking advantage of?
+19.
+How big could this be?
+20.
+What intellectual property (IP) are we creating? Are we filing patents, trademarks, or copyrights?
+Other FAQs
+Each organization is unique, and you’ll find that in your organization, there will be specific questions you need to include in your internal FAQs to help clarify and guide the reviews and decision-making. Here are a few questions for you to consider:
+1. What discussion are we seeking today? – Use this question to make it clear to the team if you are seeking approval, funding, a review of specific sections, etc. This helps establish context, and if present, it should be the first question of your internal FAQs.
+2. What are the hotly debated topics? – Don’t shy away from presenting tough options that have been strongly disagreed upon by the
+116 | The I nternal FAQs
+team (decided or undecided), as well as concerns that could undermine the viability or feasibility of this project.
+3. What needs to happen for the full vision to be achieved? – “We hope” is one of the worst sentences to include in a business document. However, in many cases, you are assessing the probability of certain event(s) to occur to make this successful. Examples might include signing a big partnership, legislation change (or interpretation), or a breakthrough in research or engineering.
+4. Who’s going to resist this change? – As you’ll read in Chapter 12, change can have a negative impact on people, teams, or entire organizations. The detractors of this initiative could be people in your organization, your customer’s organization, or other entities such as regulators.
+5. What are we not doing? – Sometimes, it’s useful to call out things this project is not doing that people might assume incorrectly. If you’re launching an iPhone App but not an Android App, that’s worth calling out. If you are not launching in some countries, it might be worth calling out. If you are not integrating with an existing product or program, call it out.
+6. What were the three biggest surprises as you came up with this plan? – These are the “a-ha” insights you discovered while exploring this opportunity. It could be positive insights that led to the feasibility or viability of this project or insights that showed that certain problems didn’t exist or certain solutions wouldn’t work.
+Combining It All
+You’ll likely have more FAQs than you can fit in your document. You need to do a ruthless prioritization exercise to decide what to include and what you want to have in a separate document—such as a product requirements document (PRD), functional spec, go-to-market plan, operational plan, etc.
+One question that doesn’t fit the model is where the name of the product or program came from and where the idea originated. In some contexts, people want to know the idea originated from a real use case—even better if it’s a personal pain point. However, innovators
+THE PRFAQ FRAMEWORK | 117
+overvalue origin stories, so I recommend toning it down to its bare minimum if you wish to include it.
+Key Takeaways
+The internal FAQs is the most important part of the PRFAQ. It speaks directly to who the customer is, the problem we are trying to solve, and the vision and opportunity we are pursuing. It dives into the feasibility, usability, viability, and value for the customer.
