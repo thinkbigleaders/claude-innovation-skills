@@ -37,6 +37,12 @@ This repository contains ready-to-use Claude skills that guide you through the i
 ### Phase 5: Validation
 - **critical-validation** - Six Thinking Hats methodology for critical thinking and validation
 
+## What are Claude Skills?
+
+Claude Skills are reusable prompt templates that help Claude assist you with specific tasks. They provide structured guidance and proven methodologies to help you innovate systematically.
+
+Learn more: [What are Skills? - Claude Help Center](https://support.claude.com/en/articles/12512176-what-are-skills)
+
 ## Quick Start
 
 ### For Non-Technical Users (Easiest Method)
@@ -169,13 +175,15 @@ process using all 7 SCAMPER techniques
 
 ## Resources
 
-- **Working Backwards Assets**: The `Working_Backwards_assets/` folder contains reference materials, examples, and templates for the PRFAQ methodology
 - **Quick References**: Each skill has a `quick-reference/` folder with condensed guides
 - **Example Outputs**: Check `references/example-outputs.md` in each skill for real-world examples
+- **PRFAQ Resources**: The `prfaq-writer/useful-files/` folder contains reference materials, examples, and templates for the Working Backwards methodology
 
 ## License
 
-This repository is open source and available for use in your innovation projects. Feel free to fork, modify, and share!
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+You are free to use, modify, and share these skills in your innovation projects!
 
 ## Support
 
