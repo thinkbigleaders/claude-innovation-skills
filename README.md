@@ -61,23 +61,21 @@ Additionally:
    - Download the `.skill` file for the skill you want to use
    - Save it to your computer
 
-2. **Upload to Claude**
+2. **Upload and enable the skill in Claude**
    - Log in to [Claude.ai](https://claude.ai) with your Pro, Max, Team, or Enterprise account
-   - Go to **Settings** → **Capabilities**
-   - Ensure **"Code execution and file creation"** is toggled ON
+   - Navigate to **Settings** → **Capabilities**
+   - Ensure **"Code execution and file creation"** is enabled
    - Scroll to the **Skills** section
-   - Click **"Upload skill"**
-   - Select the `.skill` file you downloaded (it's a ZIP file)
-   - Your skill will be added to your Skills list!
+   - Click **"Upload skill"** and upload the ZIP file containing your skill folder
+   - Toggle the skill on or off as needed
 
-3. **Enable and use the skill**
-   - In Settings → Capabilities → Skills, toggle the skill ON
+3. **Use the skill**
    - Start a new conversation or use an existing one
    - Type `/` in the chat to see all available skills
    - Select your uploaded skill from the list
    - Follow the prompts Claude provides
 
-**For detailed instructions**: [Using Skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
+**For detailed instructions on enabling and using skills**: [How to enable Skills - Claude Help Center](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
 
 ### For Developers (Clone the Repository)
 
